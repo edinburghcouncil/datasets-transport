@@ -1,0 +1,666 @@
+acc_ref,veh_ref,cas_ref,cas_class,cas_sex,cas_age,cas_severe,ped_locn,ped_mvmnt,ped_dirn,pupil_cas,seat_belt,car_pssngr,psv_pssngr,school,postcode,dtp_proj,pol_la_pro,text_id,cas_type,address,Distance to Accident
+3013,1,1,Vehicle or pillion passenger,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH151TN,,,0,Taxi Passenger,unset,No Postcode Info.
+3313,1,1,Pedestrian,Male,22,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside-masked by parked or stationary vehicle,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91SX,,,0,Pedestrian,unset,No Postcode Info.
+3413,2,1,Vehicle or pillion passenger,Female,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH221PR,,,0,Taxi Passenger,unset,No Postcode Info.
+3413,2,2,Vehicle or pillion passenger,Female,15,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH221PR,,,0,Taxi Passenger,unset,No Postcode Info.
+4513,1,1,Driver or Rider,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Car Driver,unset,No Postcode Info.
+4513,1,3,Vehicle or pillion passenger,Female,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+4513,1,4,Vehicle or pillion passenger,Female,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+4513,1,5,Vehicle or pillion passenger,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+4513,2,2,Vehicle or pillion passenger,Male,42,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH421NE,,,0,Car Passenger,unset,No Postcode Info.
+4513,2,6,Vehicle or pillion passenger,Male,15,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH421NE,,,0,Car Passenger,unset,No Postcode Info.
+5213,2,1,Driver or Rider,Female,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139QE,,,0,Car Driver,unset,No Postcode Info.
+6813,1,1,Driver or Rider,Male,31,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165TA,,,0,Car Driver,unset,No Postcode Info.
+6913,2,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64BE,,,0,Car Driver,unset,No Postcode Info.
+6913,2,2,Vehicle or pillion passenger,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH64BE,,,0,Car Passenger,unset,No Postcode Info.
+7113,1,1,Driver or Rider,Male,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165JN,,,0,Car Driver,unset,No Postcode Info.
+7113,1,4,Vehicle or pillion passenger,Male,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH13PP,,,0,Car Passenger,unset,No Postcode Info.
+7113,2,2,Driver or Rider,Male,55,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH558BT,,,0,Car Driver,unset,No Postcode Info.
+7113,2,3,Vehicle or pillion passenger,Female,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH558BT,,,0,Car Passenger,unset,No Postcode Info.
+8913,1,1,Driver or Rider,Male,22,Fatal,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH114PU,,,0,Car Driver,unset,No Postcode Info.
+8913,1,2,Vehicle or pillion passenger,Female,26,Serious,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH114ND,,,0,Car Passenger,unset,No Postcode Info.
+9213,1,1,Vehicle or pillion passenger,Female,69,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH92NZ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+9913,1,1,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH88AN,,,0,Car Driver,unset,No Postcode Info.
+10813,1,1,Pedestrian,Female,41,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76HB,,,0,Pedestrian,unset,No Postcode Info.
+11713,2,1,Vehicle or pillion passenger,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+12313,1,1,Pedestrian,Female,78,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,G32DPF,,,0,Pedestrian,unset,No Postcode Info.
+12513,2,1,Driver or Rider,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH74DX,,,0,Motorcyclist Driver,unset,No Postcode Info.
+13013,1,1,Pedestrian,Female,81,Serious,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside-masked by parked or stationary vehicle,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+13913,2,1,Driver or Rider,Female,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91AL,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+14013,1,1,Vehicle or pillion passenger,Female,83,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH130NX,,,0,Bus/coach Passenger,unset,No Postcode Info.
+14513,1,1,Pedestrian,Male,12,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309YF,,,0,Pedestrian,unset,0.3608 km
+15213,1,1,Vehicle or pillion passenger,Male,57,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH177NZ,,,0,Car Passenger,unset,No Postcode Info.
+16513,1,1,Driver or Rider,Female,57,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68AY,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+16613,2,1,Driver or Rider,Male,58,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH142HE,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+16913,2,1,Vehicle or pillion passenger,Female,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH141QQ,,,0,Ped Cyclist Passenge,unset,No Postcode Info.
+17813,3,1,Driver or Rider,Female,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127BQ,,,0,Car Driver,unset,No Postcode Info.
+18513,1,1,Pedestrian,Male,51,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44BU,,,0,Pedestrian,unset,No Postcode Info.
+18613,1,1,Pedestrian,Male,42,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165JU,,,0,Pedestrian,unset,No Postcode Info.
+18813,2,1,Driver or Rider,Male,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH129EW,,,0,Taxi Driver,unset,No Postcode Info.
+18813,2,2,Vehicle or pillion passenger,Female,49,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH106BH,,,0,Taxi Passenger,unset,No Postcode Info.
+21313,1,1,Pedestrian,Female,22,Slight,In carriageway crossing elsewhere,Crossing from drivers offside-masked by parked or stationary vehicle,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH222BQ,,,0,Pedestrian,unset,9.440 km
+22413,2,1,Driver or Rider,Male,25,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH112RH,,,0,Motorcyclist Driver,unset,No Postcode Info.
+22813,2,1,Driver or Rider,Male,37,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64NA,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+23313,1,1,Driver or Rider,Female,30,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309HR,,,0,Car Driver,unset,No Postcode Info.
+23413,2,1,Driver or Rider,Male,43,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64TL,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+23613,1,1,Driver or Rider,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH141SR,,,0,Car Driver,unset,No Postcode Info.
+23613,1,2,Vehicle or pillion passenger,Male,20,Serious,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH139BY,,,0,Car Passenger,unset,No Postcode Info.
+23613,1,3,Vehicle or pillion passenger,Female,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH112DY,,,0,Car Passenger,unset,No Postcode Info.
+23613,1,4,Vehicle or pillion passenger,Female,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH143DU,,,0,Car Passenger,unset,No Postcode Info.
+25113,2,1,Driver or Rider,Male,60,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH141PB,,,0,Car Driver,unset,No Postcode Info.
+25713,2,1,Driver or Rider,Male,57,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166HJ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+25813,2,1,Driver or Rider,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH479LP,,,0,Car Driver,unset,No Postcode Info.
+25913,1,1,Pedestrian,Male,64,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH193AF,,,0,Pedestrian,unset,No Postcode Info.
+26913,1,2,Driver or Rider,Female,27,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,G690NJ,,,0,Car Driver,unset,No Postcode Info.
+26913,2,1,Driver or Rider,Male,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH421BH,,,0,Car Driver,unset,No Postcode Info.
+26913,3,3,Driver or Rider,Male,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145SQ,,,0,Car Driver,unset,No Postcode Info.
+27013,1,1,Vehicle or pillion passenger,Female,81,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH53EX,,,0,Bus/coach Passenger,unset,2.459 km
+27413,1,1,Vehicle or pillion passenger,Male,74,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH125HP,,,0,Bus/coach Passenger,unset,No Postcode Info.
+27613,2,1,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY118GA,,,0,Car Driver,unset,No Postcode Info.
+27713,2,1,Driver or Rider,Male,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH67BP,,,0,Motorcyclist Driver,unset,No Postcode Info.
+27813,1,1,Pedestrian,Male,15,Slight,In centre of carriageway not on refuge or central island,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166QQ,,,0,Pedestrian,unset,No Postcode Info.
+27913,2,1,Driver or Rider,Male,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164DR,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+28713,1,1,Vehicle or pillion passenger,Male,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH104DE,,,0,Bus/coach Passenger,unset,3.000 km
+28913,2,1,Driver or Rider,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68TA,,,0,Motorcyclist Driver,unset,1.113 km
+29213,1,1,Pedestrian,Female,20,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47LB,,,0,Pedestrian,unset,No Postcode Info.
+30113,2,1,Driver or Rider,Male,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH92PR,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+30713,1,1,Pedestrian,Female,54,Slight,In centre of carriageway not on refuge or central island,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH143HA,,,0,Pedestrian,unset,No Postcode Info.
+30713,1,2,Pedestrian,Male,52,Slight,In centre of carriageway not on refuge or central island,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH143HA,,,0,Pedestrian,unset,No Postcode Info.
+30913,1,1,Pedestrian,Female,48,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH53PN,,,0,Pedestrian,unset,No Postcode Info.
+31813,1,2,Vehicle or pillion passenger,Male,14,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+31813,2,1,Driver or Rider,Male,58,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH107AX,,,0,Car Driver,unset,No Postcode Info.
+32013,1,1,Driver or Rider,Female,55,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH331JL,,,0,Car Driver,unset,No Postcode Info.
+34113,1,1,Driver or Rider,Male,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,TD11LQ,,,0,Car Driver,unset,No Postcode Info.
+34113,1,2,Vehicle or pillion passenger,Female,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,TD11RN,,,0,Car Passenger,unset,No Postcode Info.
+34713,1,1,Driver or Rider,Male,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309QD,,,0,LGV Driver,unset,No Postcode Info.
+34713,2,2,Driver or Rider,Male,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH74NH,,,0,Car Driver,unset,No Postcode Info.
+37413,1,1,Driver or Rider,Female,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH147LP,,,0,Car Driver,unset,No Postcode Info.
+37613,1,1,Driver or Rider,Female,85,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH147ET,,,0,Car Driver,unset,No Postcode Info.
+38713,1,1,Pedestrian,Female,24,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105JX,,,0,Pedestrian,unset,0.1484 km
+38813,1,1,Pedestrian,Female,25,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139HL,,,0,Pedestrian,unset,No Postcode Info.
+39713,1,1,Vehicle or pillion passenger,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+40713,2,1,Driver or Rider,Male,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH41JT,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+42213,1,1,Pedestrian,Female,9,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside-masked by parked or stationary vehicle,NE,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH147LY,,,0,Pedestrian,unset,0.06004 km
+42413,1,1,Vehicle or pillion passenger,Female,77,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH178FZ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+42613,1,1,Pedestrian,Male,23,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH42SA,,,0,Pedestrian,unset,No Postcode Info.
+42713,2,1,Driver or Rider,Male,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166AL,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+43413,2,1,Driver or Rider,Female,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH143HS,,,0,Car Driver,unset,No Postcode Info.
+43413,3,2,Driver or Rider,Female,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH48EF,,,0,Car Driver,unset,4.491 km
+43613,2,1,Vehicle or pillion passenger,Male,3,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH93ED,,,0,Ped Cyclist Passenge,unset,No Postcode Info.
+43813,1,2,Vehicle or pillion passenger,Male,23,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH142RT,,,0,Bus/coach Passenger,unset,No Postcode Info.
+43813,1,3,Vehicle or pillion passenger,Male,17,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH142QN,,,0,Bus/coach Passenger,unset,No Postcode Info.
+43813,1,4,Vehicle or pillion passenger,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH114LB,,,0,Bus/coach Passenger,unset,No Postcode Info.
+43813,1,5,Vehicle or pillion passenger,Female,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH526HW,,,0,Bus/coach Passenger,unset,No Postcode Info.
+43813,1,6,Vehicle or pillion passenger,Female,15,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH142RU,,,0,Bus/coach Passenger,unset,No Postcode Info.
+43813,1,7,Vehicle or pillion passenger,Male,30,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH11NH,,,0,Bus/coach Passenger,unset,No Postcode Info.
+43813,2,1,Vehicle or pillion passenger,Female,60,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH143EU,,,0,Bus/coach Passenger,unset,1.351 km
+44713,2,1,Driver or Rider,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64BE,,,0,Motorcyclist Driver,unset,No Postcode Info.
+44813,1,1,Pedestrian,Female,31,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105PA,,,0,Pedestrian,unset,No Postcode Info.
+44913,2,1,Driver or Rider,Male,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH52LL,,,0,Taxi Driver,unset,No Postcode Info.
+46713,1,1,Pedestrian,Male,64,Fatal,"In carriageway, crossing on pedestrian facility",Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91HU,,,0,Pedestrian,unset,No Postcode Info.
+46913,1,1,Pedestrian,Male,25,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers offside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH192BQ,,,0,Pedestrian,unset,No Postcode Info.
+47413,1,1,Pedestrian,Male,22,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76HA,,,0,Pedestrian,unset,No Postcode Info.
+47713,1,1,Pedestrian,Male,17,Slight,Unknown,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128QU,,,0,Pedestrian,unset,No Postcode Info.
+48313,1,1,Vehicle or pillion passenger,Female,67,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH125HP,,,0,Bus/coach Passenger,unset,No Postcode Info.
+48513,1,1,Pedestrian,Male,56,Serious,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside-masked by parked or stationary vehicle,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153BG,,,0,Pedestrian,unset,No Postcode Info.
+51313,1,1,Vehicle or pillion passenger,Female,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH42NN,,,0,Bus/coach Passenger,unset,No Postcode Info.
+51413,2,1,Driver or Rider,Male,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87BN,,,0,Car Driver,unset,No Postcode Info.
+51513,2,1,Vehicle or pillion passenger,Female,55,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH142TQ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+52013,1,1,Driver or Rider,Female,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,DG29NR,,,0,Car Driver,unset,No Postcode Info.
+52013,1,2,Vehicle or pillion passenger,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+52213,1,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+52313,2,1,Driver or Rider,Male,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH268HX,,,0,LGV Driver,unset,No Postcode Info.
+52313,3,2,Driver or Rider,Male,31,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,FK41GD,,,0,LGV Driver,unset,No Postcode Info.
+52713,1,1,Vehicle or pillion passenger,Female,69,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH413LL,,,0,Car Passenger,unset,No Postcode Info.
+53413,1,1,Pedestrian,Male,45,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76NP,,,0,Pedestrian,unset,No Postcode Info.
+53513,2,1,Driver or Rider,Male,17,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166QT,,,0,Motorcyclist Driver,unset,No Postcode Info.
+54013,2,1,Driver or Rider,Male,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH332QR,,,0,LGV Driver,unset,No Postcode Info.
+54613,2,1,Driver or Rider,Male,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH65BS,,,0,Motorcyclist Driver,unset,No Postcode Info.
+55113,2,1,Driver or Rider,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH67BJ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+55613,2,1,Driver or Rider,Male,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH66AD,,,0,Motorcyclist Driver,unset,No Postcode Info.
+55813,1,1,Pedestrian,Female,42,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139JW,,,0,Pedestrian,unset,No Postcode Info.
+56213,1,1,Pedestrian,Female,13,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside-masked by parked or stationary vehicle,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH51HJ,,,0,Pedestrian,unset,No Postcode Info.
+56713,1,1,Pedestrian,Male,38,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145JE,,,0,Pedestrian,unset,No Postcode Info.
+56813,2,1,Driver or Rider,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+56913,2,1,Driver or Rider,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153QA,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+57413,1,1,Vehicle or pillion passenger,Female,98,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+59213,1,1,Driver or Rider,Male,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH66DG,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+59613,1,1,Vehicle or pillion passenger,Female,64,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH105QS,,,0,Bus/coach Passenger,unset,No Postcode Info.
+59813,1,1,Vehicle or pillion passenger,Male,66,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH145RR,,,0,Bus/coach Passenger,unset,No Postcode Info.
+60013,1,1,Pedestrian,Male,45,Serious,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY50PD,,,0,Pedestrian,unset,No Postcode Info.
+60313,2,1,Driver or Rider,Male,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64UB,,,0,Car Driver,unset,No Postcode Info.
+60513,1,1,Driver or Rider,Male,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH51JS,,,0,Motorcyclist Driver,unset,No Postcode Info.
+60713,2,1,Driver or Rider,Female,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166EJ,,,0,Car Driver,unset,No Postcode Info.
+60713,2,2,Vehicle or pillion passenger,Female,15,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH166EJ,,,0,Car Passenger,unset,No Postcode Info.
+60813,1,1,Vehicle or pillion passenger,Male,18,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89UL,,,0,Motorcyclist Passeng,unset,No Postcode Info.
+62913,2,1,Driver or Rider,Male,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH549LB,,,0,Car Driver,unset,No Postcode Info.
+63313,1,1,Driver or Rider,Female,80,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH93EH,,,0,Car Driver,unset,No Postcode Info.
+64413,2,1,Driver or Rider,Female,44,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH106AG,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+64713,1,1,Pedestrian,Female,15,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH106JY,,,0,Pedestrian,unset,No Postcode Info.
+66913,3,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166DX,,,0,Motorcyclist Driver,unset,No Postcode Info.
+67213,1,1,Driver or Rider,Male,46,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH217RW,,,0,Car Driver,unset,No Postcode Info.
+67313,2,1,Driver or Rider,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH225QJ,,,0,Car Driver,unset,No Postcode Info.
+68313,2,1,Driver or Rider,Female,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH545PH,,,0,Car Driver,unset,No Postcode Info.
+68413,1,1,Pedestrian,Male,72,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139AS,,,0,Pedestrian,unset,No Postcode Info.
+68413,1,2,Pedestrian,Female,72,Serious,In carriageway crossing elsewhere,Crossing from drivers offside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139AS,,,0,Pedestrian,unset,No Postcode Info.
+68513,1,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164FL,,,0,Car Driver,unset,No Postcode Info.
+71413,1,1,Vehicle or pillion passenger,Female,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH111TE,,,0,Bus/coach Passenger,unset,No Postcode Info.
+72313,1,1,Driver or Rider,Female,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,FK54FH,,,0,Car Driver,unset,No Postcode Info.
+72313,1,2,Vehicle or pillion passenger,Male,83,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,FK54HR,,,0,Car Passenger,unset,No Postcode Info.
+72313,1,3,Vehicle or pillion passenger,Female,82,Serious,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,FK54HR,,,0,Car Passenger,unset,No Postcode Info.
+72313,1,4,Vehicle or pillion passenger,Female,9,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,FK54FH,,,0,Car Passenger,unset,No Postcode Info.
+75513,1,1,Vehicle or pillion passenger,Male,0,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH113DU,,,0,Bus/coach Passenger,unset,No Postcode Info.
+76213,1,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH48AU,,,0,Car Driver,unset,No Postcode Info.
+77213,1,1,Vehicle or pillion passenger,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH177RR,,,0,Car Passenger,unset,No Postcode Info.
+77713,1,1,Pedestrian,Male,73,Slight,Unknown,Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH114RB,,,0,Pedestrian,unset,No Postcode Info.
+78913,1,1,Vehicle or pillion passenger,Female,85,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH234UQ,,,0,Car Passenger,unset,No Postcode Info.
+79813,2,1,Vehicle or pillion passenger,Female,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH142TS,,,0,Car Passenger,unset,No Postcode Info.
+80113,2,1,Vehicle or pillion passenger,Male,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,LGV Passenger,unset,No Postcode Info.
+80413,1,1,Driver or Rider,Male,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH113PT,,,0,Car Driver,unset,No Postcode Info.
+80413,2,2,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH221SW,,,0,Car Driver,unset,No Postcode Info.
+80813,5,1,Driver or Rider,Female,27,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH178UG,,,0,Car Driver,unset,No Postcode Info.
+82113,1,1,Pedestrian,Female,57,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside-masked by parked or stationary vehicle,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH218LR,,,0,Pedestrian,unset,No Postcode Info.
+82213,2,1,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105JS,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+82613,2,1,Driver or Rider,Male,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH112SX,,,0,Car Driver,unset,No Postcode Info.
+83413,1,1,Pedestrian,Female,32,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML126NJ,,,0,Pedestrian,unset,No Postcode Info.
+83513,1,1,Pedestrian,Male,9,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47JD,,,0,Pedestrian,unset,No Postcode Info.
+83913,2,1,Driver or Rider,Male,27,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH112HL,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+84213,2,1,Driver or Rider,Male,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127AE,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+85813,1,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH288JU,,,0,Car Driver,unset,No Postcode Info.
+85813,2,2,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH218BZ,,,0,Car Driver,unset,No Postcode Info.
+85913,2,1,Vehicle or pillion passenger,Female,83,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH165HF,,,0,Bus/coach Passenger,unset,No Postcode Info.
+85913,2,2,Vehicle or pillion passenger,Female,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH45HY,,,0,Bus/coach Passenger,unset,No Postcode Info.
+87013,2,1,Vehicle or pillion passenger,Female,84,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH87TA,,,0,Bus/coach Passenger,unset,No Postcode Info.
+88813,1,1,Vehicle or pillion passenger,Female,16,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH331DN,,,0,Car Passenger,unset,No Postcode Info.
+88813,1,2,Vehicle or pillion passenger,Female,17,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH331PN,,,0,Car Passenger,unset,No Postcode Info.
+89913,1,1,Pedestrian,Female,26,Serious,In carriageway crossing elsewhere,Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH216LY,,,0,Pedestrian,unset,No Postcode Info.
+90013,1,1,Pedestrian,Female,5,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+90713,1,1,Driver or Rider,Female,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH43LR,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+90813,1,1,Pedestrian,Male,46,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68HR,,,0,Pedestrian,unset,No Postcode Info.
+92513,1,1,Pedestrian,Male,75,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153BR,,,0,Pedestrian,unset,No Postcode Info.
+93213,1,1,Driver or Rider,Male,54,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,AB393QG,,,0,Car Driver,unset,No Postcode Info.
+93613,2,1,Driver or Rider,Male,55,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,FK102ET,,,0,LGV Driver,unset,No Postcode Info.
+95213,1,1,Pedestrian,Male,11,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76TQ,,,0,Pedestrian,unset,No Postcode Info.
+95613,2,1,Driver or Rider,Male,34,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH45GB,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+95713,1,1,Vehicle or pillion passenger,Female,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH127SX,,,0,Car Passenger,unset,No Postcode Info.
+96813,1,1,Driver or Rider,Male,57,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76NR,,,0,Car Driver,unset,No Postcode Info.
+98213,2,1,Driver or Rider,Male,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH42UQ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+99213,2,1,Vehicle or pillion passenger,Female,78,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH64SB,,,0,Taxi Passenger,unset,No Postcode Info.
+100113,1,1,Pedestrian,Male,59,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105PT,,,0,Pedestrian,unset,No Postcode Info.
+100213,1,1,Pedestrian,Male,0,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+100313,2,1,Vehicle or pillion passenger,Female,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH209DE,,,0,Car Passenger,unset,No Postcode Info.
+101313,1,1,Driver or Rider,Female,34,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,FK27HE,,,0,Car Driver,unset,No Postcode Info.
+103013,1,1,Pedestrian,Male,10,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside-masked by parked or stationary vehicle,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47HN,,,0,Pedestrian,unset,No Postcode Info.
+103113,1,1,Pedestrian,Male,52,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH234SW,,,0,Pedestrian,unset,No Postcode Info.
+103213,1,1,Driver or Rider,Male,23,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165SE,,,0,Car Driver,unset,No Postcode Info.
+103613,1,1,Vehicle or pillion passenger,Female,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH45HY,,,0,Car Passenger,unset,No Postcode Info.
+105513,2,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87DB,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+105713,1,1,Pedestrian,Male,15,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers offside-masked by parked or stationary vehicle,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127AP,,,0,Pedestrian,unset,No Postcode Info.
+106413,2,1,Driver or Rider,Male,27,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76FB,,,0,Motorcyclist Driver,unset,No Postcode Info.
+107013,2,1,Vehicle or pillion passenger,Female,68,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH221PN,,,0,Car Passenger,unset,2.551 km
+107013,2,2,Driver or Rider,Male,70,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH221PN,,,0,Car Driver,unset,2.551 km
+107513,2,1,Driver or Rider,Male,55,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47RP,,,0,Car Driver,unset,No Postcode Info.
+107613,1,1,Vehicle or pillion passenger,Male,72,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH141BD,,,0,Bus/coach Passenger,unset,No Postcode Info.
+109113,2,1,Driver or Rider,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH93DZ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+109613,1,1,Driver or Rider,Female,30,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47EP,,,0,Car Driver,unset,No Postcode Info.
+109913,2,1,Driver or Rider,Male,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Motorcyclist Driver,unset,No Postcode Info.
+110213,1,1,Driver or Rider,Male,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,BS200EY,,,0,LGV Driver,unset,No Postcode Info.
+110213,3,2,Vehicle or pillion passenger,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML60JL,,,0,Other,unset,No Postcode Info.
+110313,1,1,Pedestrian,Male,28,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+110613,2,1,Driver or Rider,Male,16,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH113RY,,,0,Motorcyclist Driver,unset,No Postcode Info.
+111613,2,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87QZ,,,0,Car Driver,unset,No Postcode Info.
+112313,1,1,Pedestrian,Male,18,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH269JJ,,,0,Pedestrian,unset,No Postcode Info.
+112813,1,1,Pedestrian,Female,34,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,TD11JJ,,,0,Pedestrian,unset,No Postcode Info.
+114013,2,1,Driver or Rider,Male,20,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165AY,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+114413,1,1,Pedestrian,Male,15,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH51JR,,,0,Pedestrian,unset,No Postcode Info.
+114713,2,1,Driver or Rider,Female,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH193EL,,,0,Car Driver,unset,No Postcode Info.
+114913,1,1,Vehicle or pillion passenger,Female,79,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH111TL,,,0,Bus/coach Passenger,unset,No Postcode Info.
+115113,1,1,Pedestrian,Male,21,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87BD,,,0,Pedestrian,unset,No Postcode Info.
+115713,1,1,Driver or Rider,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH218LP,,,0,Car Driver,unset,No Postcode Info.
+117613,2,1,Driver or Rider,Male,49,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH113PN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+117713,1,1,Vehicle or pillion passenger,Male,10,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH143BE,,,0,Bus/coach Passenger,unset,No Postcode Info.
+121413,1,1,Driver or Rider,Female,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH107HX,,,0,Car Driver,unset,No Postcode Info.
+121413,1,2,Vehicle or pillion passenger,Female,16,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH105PY,,,0,Car Passenger,unset,No Postcode Info.
+121413,1,3,Vehicle or pillion passenger,Female,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH142HG,,,0,Car Passenger,unset,No Postcode Info.
+121913,2,1,Driver or Rider,Female,23,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89QF,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+122513,1,1,Pedestrian,Female,32,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH111TL,,,0,Pedestrian,unset,No Postcode Info.
+123313,1,1,Vehicle or pillion passenger,Female,76,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH64JB,,,0,Bus/coach Passenger,unset,No Postcode Info.
+125113,1,1,Vehicle or pillion passenger,Male,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH142RR,,,0,Bus/coach Passenger,unset,No Postcode Info.
+125413,2,1,Vehicle or pillion passenger,Female,80,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH145HF,,,0,Bus/coach Passenger,unset,No Postcode Info.
+125413,2,2,Vehicle or pillion passenger,Female,43,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH142EA,,,0,Bus/coach Passenger,unset,No Postcode Info.
+126113,2,1,Driver or Rider,Male,41,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91PE,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+126213,2,1,Driver or Rider,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87AQ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+126513,1,1,Pedestrian,Female,65,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside-masked by parked or stationary vehicle,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105XB,,,0,Pedestrian,unset,No Postcode Info.
+126613,1,1,Vehicle or pillion passenger,Female,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH66DQ,,,0,Taxi Passenger,unset,No Postcode Info.
+126713,2,1,Driver or Rider,Male,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127DU,,,0,Car Driver,unset,No Postcode Info.
+128413,1,1,Pedestrian,Male,14,Slight,In carriageway crossing elsewhere,Crossing from drivers offside-masked by parked or stationary vehicle,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164DR,,,0,Pedestrian,unset,No Postcode Info.
+128513,1,1,Driver or Rider,Female,79,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105QW,,,0,Car Driver,unset,No Postcode Info.
+129813,2,1,Driver or Rider,Male,42,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH65BH,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+129913,2,1,Driver or Rider,Female,30,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH112HX,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+130513,1,1,Pedestrian,Female,44,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers offside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47PJ,,,0,Pedestrian,unset,No Postcode Info.
+130713,2,1,Driver or Rider,Male,43,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127DL,,,0,Car Driver,unset,No Postcode Info.
+130813,1,1,Pedestrian,Male,8,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164DN,,,0,Pedestrian,unset,No Postcode Info.
+130913,2,1,Pedestrian,Male,44,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH42SF,,,0,Pedestrian,unset,No Postcode Info.
+134513,4,1,Driver or Rider,Female,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH46HE,,,0,Car Driver,unset,No Postcode Info.
+134713,2,1,Driver or Rider,Female,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76PE,,,0,Car Driver,unset,No Postcode Info.
+134713,2,2,Vehicle or pillion passenger,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH76PE,,,0,Car Passenger,unset,No Postcode Info.
+134813,1,1,Pedestrian,Male,19,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164BD,,,0,Pedestrian,unset,No Postcode Info.
+134913,2,1,Driver or Rider,Male,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64TR,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+141113,1,1,Pedestrian,Male,45,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside-masked by parked or stationary vehicle,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,AB107EY,,,0,Pedestrian,unset,No Postcode Info.
+143113,1,1,Pedestrian,Male,21,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside-masked by parked or stationary vehicle,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH39HJ,,,0,Pedestrian,unset,No Postcode Info.
+143613,1,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145BP,,,0,Car Driver,unset,No Postcode Info.
+143613,2,2,Driver or Rider,Male,70,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309XF,,,0,Car Driver,unset,No Postcode Info.
+143613,3,3,Driver or Rider,Female,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,DD69LT,,,0,Car Driver,unset,No Postcode Info.
+145813,1,1,Driver or Rider,Female,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH114EA,,,0,Car Driver,unset,No Postcode Info.
+145813,2,2,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139QB,,,0,Car Driver,unset,No Postcode Info.
+145913,2,1,Vehicle or pillion passenger,Female,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH114LS,,,0,Car Passenger,unset,No Postcode Info.
+146713,1,1,Vehicle or pillion passenger,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH526SA,,,0,Car Passenger,unset,No Postcode Info.
+146813,1,1,Vehicle or pillion passenger,Female,43,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH142SJ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+149413,2,1,Driver or Rider,Male,72,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH526XS,,,0,Car Driver,unset,No Postcode Info.
+149413,2,2,Vehicle or pillion passenger,Female,64,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH526XS,,,0,Car Passenger,unset,No Postcode Info.
+149513,1,1,Vehicle or pillion passenger,Male,86,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH51ES,,,0,Bus/coach Passenger,unset,No Postcode Info.
+149613,2,1,Driver or Rider,Male,48,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44RT,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+150613,1,1,Vehicle or pillion passenger,Female,23,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH65JF,,,0,Car Passenger,unset,No Postcode Info.
+150713,1,1,Vehicle or pillion passenger,Female,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH44ED,,,0,Car Passenger,unset,No Postcode Info.
+151113,1,1,Driver or Rider,Female,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH35LQ,,,0,Car Driver,unset,No Postcode Info.
+152313,1,1,Driver or Rider,Female,70,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164BG,,,0,Car Driver,unset,No Postcode Info.
+155713,2,1,Driver or Rider,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH104NQ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+156513,1,1,Pedestrian,Male,49,Slight,Unknown,Crossing from drivers nearside,Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY129XG,,,0,Pedestrian,unset,No Postcode Info.
+157213,1,3,Driver or Rider,Female,51,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH549BP,,,0,Car Driver,unset,No Postcode Info.
+157213,2,1,Pedestrian,Male,0,Serious,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+157213,3,2,Pedestrian,Male,0,Slight,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+157713,1,1,Pedestrian,Male,85,Serious,In centre of carriageway not on refuge or central island,Crossing from drivers nearside-masked by parked or stationary vehicle,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87PH,,,0,Pedestrian,unset,0.1237 km
+157913,1,1,Pedestrian,Male,26,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH38ET,,,0,Pedestrian,unset,No Postcode Info.
+158413,1,1,Vehicle or pillion passenger,Female,90,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH53AE,,,0,Bus/coach Passenger,unset,No Postcode Info.
+158613,1,1,Pedestrian,Female,71,Fatal,In carriageway crossing elsewhere,Crossing from drivers nearside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,121308,,,0,Pedestrian,unset,No Postcode Info.
+159513,1,1,Pedestrian,Male,5,Slight,In carriageway crossing elsewhere,Crossing from drivers offside-masked by parked or stationary vehicle,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH178PA,,,0,Pedestrian,unset,No Postcode Info.
+160213,2,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44GJ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+161813,1,1,Pedestrian,Male,36,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,WF76FD,,,0,Pedestrian,unset,No Postcode Info.
+163413,1,2,Vehicle or pillion passenger,Female,37,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH413AW,,,0,Car Passenger,unset,No Postcode Info.
+163413,1,3,Vehicle or pillion passenger,Male,7,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH413AW,,,0,Car Passenger,unset,No Postcode Info.
+163413,1,4,Vehicle or pillion passenger,Female,4,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH413AW,,,0,Car Passenger,unset,No Postcode Info.
+163413,2,1,Driver or Rider,Male,34,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH525AN,,,0,Car Driver,unset,No Postcode Info.
+163413,2,5,Vehicle or pillion passenger,Female,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH525AN,,,0,Car Passenger,unset,No Postcode Info.
+163713,1,1,Driver or Rider,Male,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH141RX,,,0,Car Driver,unset,No Postcode Info.
+163913,1,1,Pedestrian,Female,29,Serious,In carriageway not crossing,In carriageway stationary-not crossing (standing or playing),W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+164013,1,1,Driver or Rider,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127UH,,,0,Car Driver,unset,No Postcode Info.
+164013,1,3,Vehicle or pillion passenger,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH549BH,,,0,Car Passenger,unset,No Postcode Info.
+164013,1,4,Vehicle or pillion passenger,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH546NP,,,0,Car Passenger,unset,No Postcode Info.
+164013,2,2,Vehicle or pillion passenger,Male,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH177HT,,,0,LGV Passenger,unset,13.15 km
+164813,2,1,Vehicle or pillion passenger,Female,31,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH165SF,,,0,Car Passenger,unset,No Postcode Info.
+165013,2,1,Driver or Rider,Male,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165BJ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+165513,2,1,Driver or Rider,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH67EN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+166913,1,1,Vehicle or pillion passenger,Male,91,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH125NX,,,0,Bus/coach Passenger,unset,No Postcode Info.
+167313,2,1,Driver or Rider,Male,56,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH320SW,,,0,Car Driver,unset,No Postcode Info.
+167413,1,1,Driver or Rider,Female,57,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH130QP,,,0,Car Driver,unset,No Postcode Info.
+167713,1,1,Driver or Rider,Female,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Car Driver,unset,No Postcode Info.
+167913,1,2,Driver or Rider,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,G674AL,,,0,Car Driver,unset,No Postcode Info.
+167913,2,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68QD,,,0,Car Driver,unset,No Postcode Info.
+167913,2,3,Vehicle or pillion passenger,Female,7,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH68QD,,,0,Car Passenger,unset,No Postcode Info.
+169413,1,1,Pedestrian,Male,19,Slight,In carriageway crossing within zig-zag lines approach to crossing,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH92AF,,,0,Pedestrian,unset,No Postcode Info.
+170413,1,1,Driver or Rider,Female,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH129JB,,,0,Car Driver,unset,No Postcode Info.
+173713,1,1,Driver or Rider,Male,40,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH67NU,,,0,Car Driver,unset,No Postcode Info.
+173713,1,2,Vehicle or pillion passenger,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH309RJ,,,0,Car Passenger,unset,No Postcode Info.
+173913,2,1,Driver or Rider,Male,80,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76SL,,,0,Car Driver,unset,No Postcode Info.
+174113,1,1,Driver or Rider,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,FK38QU,,,0,Car Driver,unset,No Postcode Info.
+174113,1,2,Vehicle or pillion passenger,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,FK20SD,,,0,Car Passenger,unset,No Postcode Info.
+174213,1,1,Driver or Rider,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH66DG,,,0,Car Driver,unset,No Postcode Info.
+174613,1,1,Driver or Rider,Male,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH111JE,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+175213,1,1,Pedestrian,Female,6,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH65PL,,,0,Pedestrian,unset,No Postcode Info.
+177513,1,1,Vehicle or pillion passenger,Female,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+177713,2,1,Driver or Rider,Male,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY111PP,,,0,Motorcyclist Driver,unset,No Postcode Info.
+179113,2,1,Driver or Rider,Male,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH331AS,,,0,Car Driver,unset,No Postcode Info.
+180513,1,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127TQ,,,0,LGV Driver,unset,No Postcode Info.
+180513,1,2,Vehicle or pillion passenger,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,LGV Passenger,unset,No Postcode Info.
+181313,1,1,Pedestrian,Female,66,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH178QE,,,0,Pedestrian,unset,No Postcode Info.
+181413,2,1,Driver or Rider,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68LQ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+182313,2,1,Vehicle or pillion passenger,Female,76,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH128QN,,,0,Bus/coach Passenger,unset,No Postcode Info.
+183513,1,1,Driver or Rider,Male,18,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44PY,,,0,Car Driver,unset,No Postcode Info.
+185613,2,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH216JW,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+187013,1,1,Vehicle or pillion passenger,Male,84,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH65BY,,,0,Bus/coach Passenger,unset,No Postcode Info.
+187313,2,1,Driver or Rider,Female,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML52JF,,,0,Motorcyclist Driver,unset,No Postcode Info.
+187613,2,1,Driver or Rider,Male,16,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76LP,,,0,Motorcyclist Driver,unset,No Postcode Info.
+188713,1,1,Driver or Rider,Male,60,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89RE,,,0,Car Driver,unset,No Postcode Info.
+190313,2,1,Driver or Rider,Male,37,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309QW,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+190413,1,1,Pedestrian,Male,63,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers offside-masked by parked or stationary vehicle,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH53AE,,,0,Pedestrian,unset,No Postcode Info.
+190513,1,1,Pedestrian,Male,43,Slight,In centre of carriageway not on refuge or central island,Crossing from drivers offside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH111UJ,,,0,Pedestrian,unset,No Postcode Info.
+190613,1,1,Vehicle or pillion passenger,Female,93,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH178ND,,,0,Bus/coach Passenger,unset,No Postcode Info.
+190813,2,1,Driver or Rider,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH38DW,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+190913,2,1,Driver or Rider,Male,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH111UU,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+191013,1,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+192313,2,1,Driver or Rider,Male,69,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH320DR,,,0,Car Driver,unset,No Postcode Info.
+194213,1,1,Pedestrian,Male,49,Slight,On footway or verge,Unknown,Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+194413,2,1,Driver or Rider,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH42TE,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+194913,1,1,Pedestrian,Male,78,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+195213,1,1,Vehicle or pillion passenger,Female,62,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH178QE,,,0,Bus/coach Passenger,unset,No Postcode Info.
+195313,1,1,Vehicle or pillion passenger,Female,7,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+195813,2,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH111TF,,,0,Car Driver,unset,No Postcode Info.
+196913,2,1,Driver or Rider,Male,54,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44EZ,,,0,Motorcyclist Driver,unset,No Postcode Info.
+197113,1,1,Driver or Rider,Male,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH142BZ,,,0,Car Driver,unset,No Postcode Info.
+197413,1,1,Driver or Rider,Female,71,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH92LS,,,0,Car Driver,unset,No Postcode Info.
+197413,2,2,Driver or Rider,Male,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139LJ,,,0,Car Driver,unset,No Postcode Info.
+197813,1,1,Driver or Rider,Male,76,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH142BE,,,0,Car Driver,unset,No Postcode Info.
+197813,2,2,Driver or Rider,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127DZ,,,0,Car Driver,unset,No Postcode Info.
+198113,2,1,Driver or Rider,Male,53,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH395JL,,,0,Car Driver,unset,No Postcode Info.
+198213,2,1,Vehicle or pillion passenger,Male,7,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH164AL,,,0,Car Passenger,unset,No Postcode Info.
+198213,2,2,Vehicle or pillion passenger,Male,4,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH164AL,,,0,Car Passenger,unset,No Postcode Info.
+198913,2,1,Driver or Rider,Female,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76HE,,,0,Car Driver,unset,No Postcode Info.
+199113,2,1,Driver or Rider,Male,30,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91QB,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+199213,2,1,Driver or Rider,Male,42,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH249ES,,,0,Car Driver,unset,No Postcode Info.
+199213,2,2,Vehicle or pillion passenger,Male,15,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH249ES,,,0,Car Passenger,unset,No Postcode Info.
+199213,2,3,Vehicle or pillion passenger,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH249ES,,,0,Car Passenger,unset,No Postcode Info.
+199513,2,1,Driver or Rider,Male,56,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH48EX,,,0,Car Driver,unset,No Postcode Info.
+200413,2,1,Driver or Rider,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91ND,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+200913,1,1,Pedestrian,Female,23,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,SW,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76HG,,,0,Pedestrian,unset,No Postcode Info.
+201313,1,1,Vehicle or pillion passenger,Female,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,WF61QJ,,,0,Car Passenger,unset,No Postcode Info.
+201413,2,1,Vehicle or pillion passenger,Female,69,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH66NJ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+201513,2,1,Driver or Rider,Male,49,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,FK125HG,,,0,Motorcyclist Driver,unset,No Postcode Info.
+201613,1,1,Pedestrian,Male,29,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+201713,1,1,Pedestrian,Female,31,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+201913,1,1,Vehicle or pillion passenger,Female,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH128ED,,,0,Bus/coach Passenger,unset,No Postcode Info.
+202013,2,1,Driver or Rider,Female,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,FK15DW,,,0,Car Driver,unset,No Postcode Info.
+203213,1,1,Pedestrian,Female,12,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44LX,,,0,Pedestrian,unset,No Postcode Info.
+203413,1,1,Vehicle or pillion passenger,Female,85,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH88BQ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+203513,2,1,Driver or Rider,Female,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165RN,,,0,Car Driver,unset,No Postcode Info.
+203713,2,1,Driver or Rider,Male,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH35LU,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+204513,1,1,Pedestrian,Male,64,Slight,Unknown,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+204813,2,1,Driver or Rider,Male,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH74EL,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+205513,1,1,Pedestrian,Male,4,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44SG,,,0,Pedestrian,unset,No Postcode Info.
+207013,1,1,Pedestrian,Male,55,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64BN,,,0,Pedestrian,unset,No Postcode Info.
+210713,1,1,Pedestrian,Female,19,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76TH,,,0,Pedestrian,unset,No Postcode Info.
+211113,1,1,Driver or Rider,Male,86,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153LX,,,0,Car Driver,unset,No Postcode Info.
+211113,2,2,Driver or Rider,Male,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH320BD,,,0,Car Driver,unset,No Postcode Info.
+211813,2,1,Driver or Rider,Male,56,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH395PT,,,0,Motorcyclist Driver,unset,No Postcode Info.
+213613,1,1,Pedestrian,Male,42,Slight,On footway or verge,Unknown,Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+213713,1,1,Pedestrian,Male,66,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH88EJ,,,0,Pedestrian,unset,No Postcode Info.
+214013,2,1,Driver or Rider,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KA184HG,,,0,Car Driver,unset,No Postcode Info.
+214013,2,2,Vehicle or pillion passenger,Female,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+214213,1,1,Driver or Rider,Male,42,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH142QR,,,0,Car Driver,unset,No Postcode Info.
+214413,1,1,Pedestrian,Female,50,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers offside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH458JE,,,0,Pedestrian,unset,No Postcode Info.
+214613,2,1,Driver or Rider,Male,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76EZ,,,0,Car Driver,unset,No Postcode Info.
+215213,1,1,Driver or Rider,Female,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH114PA,,,0,Car Driver,unset,No Postcode Info.
+215213,2,2,Driver or Rider,Male,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH530RP,,,0,Car Driver,unset,No Postcode Info.
+215613,1,2,Pedestrian,Female,33,Slight,On footway or verge,Unknown,Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH35BE,,,0,Pedestrian,unset,No Postcode Info.
+215613,1,3,Pedestrian,Male,17,Slight,On footway or verge,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH403DJ,,,0,Pedestrian,unset,No Postcode Info.
+215613,1,4,Pedestrian,Male,17,Slight,On footway or verge,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH403AJ,,,0,Pedestrian,unset,No Postcode Info.
+215613,1,5,Pedestrian,Male,18,Slight,On footway or verge,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH403AP,,,0,Pedestrian,unset,No Postcode Info.
+215613,2,1,Driver or Rider,Male,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH51EY,,,0,Motorcyclist Driver,unset,No Postcode Info.
+215913,1,1,Driver or Rider,Female,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68PW,,,0,Car Driver,unset,No Postcode Info.
+216313,2,1,Driver or Rider,Male,46,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH53RN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+217313,1,1,Driver or Rider,Female,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139JY,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+217413,2,1,Driver or Rider,Male,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH375TF,,,0,Car Driver,unset,No Postcode Info.
+217613,1,1,Pedestrian,Male,32,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH51AD,,,0,Pedestrian,unset,No Postcode Info.
+218513,2,1,Driver or Rider,Male,31,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH75TQ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+218713,2,1,Driver or Rider,Male,83,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153RT,,,0,Taxi Driver,unset,No Postcode Info.
+218813,2,1,Driver or Rider,Female,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML12SW,,,0,Car Driver,unset,No Postcode Info.
+218913,2,1,Driver or Rider,Male,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY112HF,,,0,Car Driver,unset,No Postcode Info.
+219413,1,1,Vehicle or pillion passenger,Female,53,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH145QX,,,0,Bus/coach Passenger,unset,No Postcode Info.
+219913,2,1,Driver or Rider,Male,34,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166TA,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+220213,2,1,Driver or Rider,Male,37,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH141TX,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+220613,2,1,Driver or Rider,Male,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166QD,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+221113,1,1,Pedestrian,Female,28,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+221213,1,1,Driver or Rider,Female,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145QE,,,0,Car Driver,unset,No Postcode Info.
+221313,1,1,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH421EH,,,0,Car Driver,unset,No Postcode Info.
+221313,1,3,Vehicle or pillion passenger,Female,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH421EH,,,0,Car Passenger,unset,No Postcode Info.
+221313,2,2,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH320UD,,,0,Car Driver,unset,No Postcode Info.
+221513,1,1,Driver or Rider,Female,55,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164EL,,,0,Car Driver,unset,2.693 km
+221913,2,1,Driver or Rider,Female,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH67PL,,,0,Car Driver,unset,No Postcode Info.
+222013,2,1,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44DL,,,0,Car Driver,unset,No Postcode Info.
+222213,1,1,Pedestrian,Female,72,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,APP49,,,0,Pedestrian,unset,No Postcode Info.
+222313,1,1,Pedestrian,Male,25,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH114NT,,,0,Pedestrian,unset,No Postcode Info.
+222713,1,1,Pedestrian,Male,25,Serious,In carriageway not crossing,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89RW,,,0,Pedestrian,unset,No Postcode Info.
+222913,1,1,Vehicle or pillion passenger,Female,75,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH113NG,,,0,Bus/coach Passenger,unset,No Postcode Info.
+225713,2,1,Driver or Rider,Male,23,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH165AH,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+226513,1,1,Driver or Rider,Male,33,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH75QH,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+226813,2,1,Driver or Rider,Male,25,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91AN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+228113,2,1,Driver or Rider,Male,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY112HQ,,,0,Motorcyclist Driver,unset,No Postcode Info.
+228613,2,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128QD,,,0,Motorcyclist Driver,unset,No Postcode Info.
+231713,1,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153QT,,,0,Motorcyclist Driver,unset,No Postcode Info.
+232013,1,1,Driver or Rider,Male,75,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145SL,,,0,Car Driver,unset,No Postcode Info.
+234213,1,1,Driver or Rider,Female,41,Fatal,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH526QJ,,,0,Motorcyclist Driver,unset,No Postcode Info.
+234313,1,1,Pedestrian,Male,47,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89BL,,,0,Pedestrian,unset,No Postcode Info.
+234413,1,1,Vehicle or pillion passenger,Female,74,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+234513,1,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH35AX,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+234613,2,1,Driver or Rider,Male,17,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH152LY,,,0,Motorcyclist Driver,unset,No Postcode Info.
+234713,2,1,Driver or Rider,Male,16,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105SH,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+234813,1,1,Driver or Rider,Male,20,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,LGV Driver,unset,No Postcode Info.
+234813,2,2,Driver or Rider,Female,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH75HH,,,0,Car Driver,unset,No Postcode Info.
+234813,4,3,Driver or Rider,Male,46,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,NE613SU,,,0,Car Driver,unset,No Postcode Info.
+234913,1,1,Driver or Rider,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH331DQ,,,0,Car Driver,unset,No Postcode Info.
+235613,1,1,Driver or Rider,Male,56,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH126UU,,,0,Motorcyclist Driver,unset,No Postcode Info.
+240113,2,1,Driver or Rider,Male,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76PT,,,0,Car Driver,unset,No Postcode Info.
+240213,2,1,Driver or Rider,Male,43,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH125TP,,,0,Car Driver,unset,No Postcode Info.
+240613,2,1,Driver or Rider,Female,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH36RD,,,0,Car Driver,unset,No Postcode Info.
+241713,2,1,Driver or Rider,Male,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH125QT,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+242013,1,1,Driver or Rider,Female,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH152HA,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+242113,1,1,Pedestrian,Female,17,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47HY,,,0,Pedestrian,unset,No Postcode Info.
+242513,1,1,Driver or Rider,Male,73,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Car Driver,unset,No Postcode Info.
+243013,2,1,Driver or Rider,Male,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH111NN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+243113,2,1,Driver or Rider,Female,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64JQ,,,0,Car Driver,unset,No Postcode Info.
+243213,1,1,Vehicle or pillion passenger,Female,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH88BS,,,0,Bus/coach Passenger,unset,0.9696 km
+243613,1,1,Vehicle or pillion passenger,Male,54,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,EH105BJ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+244013,1,1,Pedestrian,Male,65,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128JP,,,0,Pedestrian,unset,No Postcode Info.
+245513,2,1,Driver or Rider,Male,30,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH345ET,,,0,LGV Driver,unset,No Postcode Info.
+246213,2,1,Driver or Rider,Female,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH181DT,,,0,Car Driver,unset,No Postcode Info.
+246213,3,2,Vehicle or pillion passenger,Female,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH36NN,,,0,Car Passenger,unset,No Postcode Info.
+246313,1,1,Vehicle or pillion passenger,Female,79,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Boarding,,L190NP,,,0,Bus/coach Passenger,unset,No Postcode Info.
+246413,1,1,Pedestrian,Male,18,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89DA,,,0,Pedestrian,unset,No Postcode Info.
+246513,2,1,Driver or Rider,Female,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH530LE,,,0,Car Driver,unset,No Postcode Info.
+246613,1,1,Pedestrian,Male,86,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145RR,,,0,Pedestrian,unset,No Postcode Info.
+246713,1,1,Vehicle or pillion passenger,Female,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH178BN,,,0,Other,unset,No Postcode Info.
+247313,2,1,Driver or Rider,Male,36,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH11RP,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+247613,1,1,Pedestrian,Male,43,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH88AU,,,0,Pedestrian,unset,No Postcode Info.
+247713,2,1,Driver or Rider,Female,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH53NX,,,0,Car Driver,unset,No Postcode Info.
+247713,2,2,Vehicle or pillion passenger,Male,58,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH53NX,,,0,Car Passenger,unset,No Postcode Info.
+248413,1,1,Pedestrian,Male,47,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89UJ,,,0,Pedestrian,unset,No Postcode Info.
+248513,1,1,Pedestrian,Female,7,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139NT,,,0,Pedestrian,unset,No Postcode Info.
+248613,2,1,Vehicle or pillion passenger,Female,74,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH151SN,,,0,Car Passenger,unset,No Postcode Info.
+248713,1,1,Driver or Rider,Female,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH547ES,,,0,Car Driver,unset,No Postcode Info.
+248713,1,3,Vehicle or pillion passenger,Female,14,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH547ES,,,0,Car Passenger,unset,No Postcode Info.
+248713,2,2,Driver or Rider,Male,62,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH65ET,,,0,LGV Driver,unset,No Postcode Info.
+250013,2,1,Vehicle or pillion passenger,Female,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH125LJ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+250113,3,1,Driver or Rider,Male,73,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128UA,,,0,Car Driver,unset,No Postcode Info.
+250313,1,1,Driver or Rider,Male,79,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH106BP,,,0,Car Driver,unset,No Postcode Info.
+250313,1,4,Vehicle or pillion passenger,Male,13,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH92PQ,,,0,Car Passenger,unset,No Postcode Info.
+250313,2,2,Driver or Rider,Female,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105JY,,,0,Car Driver,unset,No Postcode Info.
+250313,3,3,Driver or Rider,Female,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164FE,,,0,Car Driver,unset,No Postcode Info.
+250413,2,1,Driver or Rider,Male,37,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139PP,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+250513,1,1,Driver or Rider,Male,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127DZ,,,0,Motorcyclist Driver,unset,No Postcode Info.
+250713,2,1,Driver or Rider,Male,48,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH268ES,,,0,Motorcyclist Driver,unset,No Postcode Info.
+250913,1,1,Vehicle or pillion passenger,Female,84,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH45AF,,,0,Bus/coach Passenger,unset,0.4180 km
+251613,2,1,Driver or Rider,Female,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH129ES,,,0,Car Driver,unset,No Postcode Info.
+252513,1,1,Pedestrian,Female,76,Serious,In carriageway crossing elsewhere,Crossing from drivers offside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+253113,1,1,Pedestrian,Male,6,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+253413,2,1,Driver or Rider,Male,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164RS,,,0,Car Driver,unset,No Postcode Info.
+253513,1,1,Pedestrian,Male,50,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH53RU,,,0,Pedestrian,unset,No Postcode Info.
+253913,2,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH106RN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+254013,2,1,Driver or Rider,Female,15,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105ED,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+255513,1,1,Pedestrian,Male,5,Serious,In carriageway crossing elsewhere,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164UL,,,0,Pedestrian,unset,No Postcode Info.
+255713,1,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127TP,,,0,Car Driver,unset,No Postcode Info.
+255713,2,2,Driver or Rider,Female,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128BN,,,0,Car Driver,unset,No Postcode Info.
+255813,2,1,Driver or Rider,Female,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76NF,,,0,Car Driver,unset,No Postcode Info.
+256213,1,1,Pedestrian,Male,51,Serious,In carriageway not crossing,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+256313,2,1,Driver or Rider,Female,73,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309LB,,,0,Car Driver,unset,No Postcode Info.
+256413,2,1,Driver or Rider,Female,42,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY76AG,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+256513,2,1,Driver or Rider,Male,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91ER,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+256713,2,1,Driver or Rider,Male,42,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY112HE,,,0,Motorcyclist Driver,unset,No Postcode Info.
+256813,1,1,Driver or Rider,Male,23,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH104NZ,,,0,Car Driver,unset,No Postcode Info.
+256913,1,1,Vehicle or pillion passenger,Female,66,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH35JN,,,0,Car Passenger,unset,No Postcode Info.
+257213,2,1,Driver or Rider,Male,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105ER,,,0,Car Driver,unset,No Postcode Info.
+258513,1,1,Pedestrian,Male,12,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76ER,,,0,Pedestrian,unset,No Postcode Info.
+258713,2,1,Driver or Rider,Male,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH53PJ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+259313,2,1,Driver or Rider,Male,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH76UU,,,0,Motorcyclist Driver,unset,No Postcode Info.
+261313,1,1,Pedestrian,Male,37,Serious,In carriageway crossing elsewhere,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+263013,2,1,Driver or Rider,Male,16,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH164NA,,,0,Motorcyclist Driver,unset,No Postcode Info.
+264413,2,1,Vehicle or pillion passenger,Male,23,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH142QB,,,0,Car Passenger,unset,No Postcode Info.
+264713,2,1,Driver or Rider,Female,30,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH43NL,,,0,Car Driver,unset,No Postcode Info.
+265313,1,1,Vehicle or pillion passenger,Female,69,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH75EJ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+265513,1,1,Pedestrian,Female,23,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166XW,,,0,Pedestrian,unset,No Postcode Info.
+265613,1,1,Vehicle or pillion passenger,Female,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,AB392NW,,,0,Bus/coach Passenger,unset,No Postcode Info.
+265713,1,1,Driver or Rider,Male,64,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127JR,,,0,Car Driver,unset,No Postcode Info.
+265913,2,1,Driver or Rider,Male,33,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68LQ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+266013,1,1,Pedestrian,Female,62,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside-masked by parked or stationary vehicle,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH141NQ,,,0,Pedestrian,unset,No Postcode Info.
+266313,2,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87PH,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+266513,2,1,Vehicle or pillion passenger,Female,91,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH76RX,,,0,Car Passenger,unset,No Postcode Info.
+266613,2,1,Driver or Rider,Male,36,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH147EE,,,0,Motorcyclist Driver,unset,No Postcode Info.
+266713,1,1,Driver or Rider,Male,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44ED,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+266813,2,1,Driver or Rider,Male,63,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH45PT,,,0,Motorcyclist Driver,unset,No Postcode Info.
+267013,1,1,Pedestrian,Male,19,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,3315,,,0,Pedestrian,unset,No Postcode Info.
+267113,3,1,Vehicle or pillion passenger,Female,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH526RN,,,0,Car Passenger,unset,No Postcode Info.
+267113,3,2,Vehicle or pillion passenger,Female,41,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH526SP,,,0,Car Passenger,unset,No Postcode Info.
+267413,1,1,Pedestrian,Female,98,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+270713,1,1,Pedestrian,Female,21,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH43DA,,,0,Pedestrian,unset,No Postcode Info.
+271013,1,1,Vehicle or pillion passenger,Female,70,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH51NF,,,0,Bus/coach Passenger,unset,No Postcode Info.
+271213,1,1,Vehicle or pillion passenger,Female,80,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH51AJ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+271313,2,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128YB,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+271413,2,1,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH91AJ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+271513,1,1,Driver or Rider,Male,68,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY112LR,,,0,LGV Driver,unset,No Postcode Info.
+271613,2,1,Vehicle or pillion passenger,Female,21,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH268NU,,,0,Car Passenger,unset,No Postcode Info.
+271613,3,2,Vehicle or pillion passenger,Female,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,TD135AU,,,0,Car Passenger,unset,No Postcode Info.
+271713,1,1,Vehicle or pillion passenger,Female,67,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH48BE,,,0,Car Passenger,unset,No Postcode Info.
+271813,2,1,Vehicle or pillion passenger,Male,19,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH329BY,,,0,Car Passenger,unset,No Postcode Info.
+273313,1,1,Driver or Rider,Female,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH414AE,,,0,Car Driver,unset,No Postcode Info.
+273513,1,1,Vehicle or pillion passenger,Female,77,Serious,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+274613,3,1,Driver or Rider,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH107DY,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+276113,1,1,Vehicle or pillion passenger,Female,98,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+276313,1,1,Vehicle or pillion passenger,Female,76,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH44AN,,,0,LGV Passenger,unset,No Postcode Info.
+281813,1,1,Driver or Rider,Male,0,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Car Driver,unset,No Postcode Info.
+281813,1,2,Vehicle or pillion passenger,Male,0,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+281913,2,1,Driver or Rider,Male,53,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139BZ,,,0,Car Driver,unset,No Postcode Info.
+282013,1,1,Driver or Rider,Male,61,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH130AA,,,0,Car Driver,unset,No Postcode Info.
+282213,2,1,Driver or Rider,Male,60,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128DN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+282313,2,1,Driver or Rider,Male,41,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH299FY,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+282413,1,1,Pedestrian,Male,13,Serious,In centre of carriageway not on refuge or central island,Crossing from drivers nearside-masked by parked or stationary vehicle,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH113TL,,,0,Pedestrian,unset,No Postcode Info.
+282613,1,1,Pedestrian,Male,49,Slight,On footway or verge,Unknown,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH39JP,,,0,Pedestrian,unset,No Postcode Info.
+285613,2,1,Driver or Rider,Male,20,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH224HA,,,0,Motorcyclist Driver,unset,No Postcode Info.
+285813,2,1,Driver or Rider,Female,51,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH92LW,,,0,Car Driver,unset,No Postcode Info.
+286013,1,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH222DP,,,0,Motorcyclist Driver,unset,No Postcode Info.
+286113,2,1,Driver or Rider,Male,42,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH89SP,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+286613,1,1,Driver or Rider,Male,49,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY118HY,,,0,Car Driver,unset,No Postcode Info.
+286813,1,1,Driver or Rider,Male,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KA48DD,,,0,LGV Driver,unset,No Postcode Info.
+286813,2,2,Driver or Rider,Female,54,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH546TH,,,0,Car Driver,unset,No Postcode Info.
+286813,3,3,Driver or Rider,Female,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML41EX,,,0,Car Driver,unset,No Postcode Info.
+288213,1,1,Driver or Rider,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153DG,,,0,Motorcyclist Driver,unset,No Postcode Info.
+288213,2,2,Vehicle or pillion passenger,Male,57,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH153RZ,,,0,Bus/coach Passenger,unset,No Postcode Info.
+288213,2,3,Vehicle or pillion passenger,Female,17,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH153RT,,,0,Bus/coach Passenger,unset,No Postcode Info.
+288413,2,1,Driver or Rider,Female,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH129AH,,,0,Car Driver,unset,No Postcode Info.
+288513,3,1,Driver or Rider,Male,32,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH221JQ,,,0,Car Driver,unset,No Postcode Info.
+288613,1,1,Driver or Rider,Male,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH481DD,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+288813,2,1,Driver or Rider,Male,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139HQ,,,0,Car Driver,unset,No Postcode Info.
+289113,1,1,Vehicle or pillion passenger,Female,90,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH65RU,,,0,Bus/coach Passenger,unset,No Postcode Info.
+289413,1,1,Driver or Rider,Female,76,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH47SZ,,,0,Car Driver,unset,No Postcode Info.
+289613,1,1,Pedestrian,Female,36,Slight,"In carriageway, crossing on pedestrian facility",Crossing from drivers nearside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH112QS,,,0,Pedestrian,unset,No Postcode Info.
+289713,2,1,Driver or Rider,Male,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH548AP,,,0,Car Driver,unset,No Postcode Info.
+290013,1,1,Driver or Rider,Male,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY147AP,,,0,Motorcyclist Driver,unset,No Postcode Info.
+290113,2,1,Driver or Rider,Male,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH546RJ,,,0,Car Driver,unset,No Postcode Info.
+290413,2,1,Vehicle or pillion passenger,Male,75,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH51BX,,,0,Bus/coach Passenger,unset,0.8400 km
+290513,1,1,Pedestrian,Male,87,Slight,In centre of carriageway not on refuge or central island,In carriageway stationary-not crossing (standing or playing),Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH65JN,,,0,Pedestrian,unset,No Postcode Info.
+290913,2,1,Driver or Rider,Male,45,Fatal,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH66JT,,,0,Motorcyclist Driver,unset,No Postcode Info.
+291513,2,1,Driver or Rider,Female,34,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH147NH,,,0,Car Driver,unset,No Postcode Info.
+291713,2,1,Driver or Rider,Male,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68SR,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+291913,1,1,Pedestrian,Female,61,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+292013,1,1,Pedestrian,Male,17,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH51LL,,,0,Pedestrian,unset,No Postcode Info.
+292213,2,1,Driver or Rider,Female,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153EZ,,,0,Car Driver,unset,No Postcode Info.
+292513,2,1,Driver or Rider,Female,42,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH93HT,,,0,Car Driver,unset,No Postcode Info.
+292613,1,1,Pedestrian,Male,64,Slight,In carriageway crossing elsewhere,Crossing from drivers offside,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+293013,1,1,Vehicle or pillion passenger,Female,49,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+293913,2,1,Driver or Rider,Female,54,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH278AD,,,0,Car Driver,unset,No Postcode Info.
+294213,2,1,Driver or Rider,Female,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH114PA,,,0,Car Driver,unset,No Postcode Info.
+298113,1,1,Pedestrian,Male,34,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers offside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87BS,,,0,Pedestrian,unset,No Postcode Info.
+299313,1,1,Driver or Rider,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH52AE,,,0,LGV Driver,unset,No Postcode Info.
+299413,2,1,Driver or Rider,Male,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY111NY,,,0,Motorcyclist Driver,unset,No Postcode Info.
+299513,2,1,Driver or Rider,Female,58,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145TH,,,0,Car Driver,unset,No Postcode Info.
+299613,1,1,Pedestrian,Male,4,Slight,In carriageway crossing elsewhere,Crossing from drivers nearside-masked by parked or stationary vehicle,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML13RB,,,0,Pedestrian,unset,No Postcode Info.
+299713,2,1,Driver or Rider,Male,53,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH147ED,,,0,Motorcyclist Driver,unset,No Postcode Info.
+299813,1,1,Vehicle or pillion passenger,Male,66,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+299913,2,1,Driver or Rider,Female,23,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,AB438QN,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+300313,2,1,Driver or Rider,Female,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH355LQ,,,0,Car Driver,unset,No Postcode Info.
+301813,2,1,Driver or Rider,Female,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127LF,,,0,Car Driver,unset,No Postcode Info.
+301813,2,2,Vehicle or pillion passenger,Male,7,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH127LF,,,0,Car Passenger,unset,No Postcode Info.
+301813,2,3,Vehicle or pillion passenger,Male,9,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH127LF,,,0,Car Passenger,unset,2.713 km
+302313,2,1,Driver or Rider,Female,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64BW,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+305713,1,1,Vehicle or pillion passenger,Female,83,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH127UH,,,0,Bus/coach Passenger,unset,No Postcode Info.
+306313,1,1,Pedestrian,Female,65,Serious,In carriageway crossing elsewhere,Crossing from drivers nearside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH166LJ,,,0,Pedestrian,unset,No Postcode Info.
+307113,2,1,Driver or Rider,Male,59,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH39HH,,,0,Car Driver,unset,No Postcode Info.
+307113,2,2,Vehicle or pillion passenger,Female,56,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH39HH,,,0,Car Passenger,unset,No Postcode Info.
+307113,2,3,Vehicle or pillion passenger,Female,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH39HH,,,0,Car Passenger,unset,No Postcode Info.
+307213,1,1,Driver or Rider,Male,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH43NU,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+307813,1,1,Driver or Rider,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH42TE,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+307913,1,1,Driver or Rider,Male,53,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML37UX,,,0,Car Driver,unset,No Postcode Info.
+308113,1,1,Pedestrian,Male,45,Slight,Unknown,Unknown,Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,ML52LJ,,,0,Pedestrian,unset,No Postcode Info.
+308113,2,2,Driver or Rider,Male,31,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH177RW,,,0,Car Driver,unset,No Postcode Info.
+312013,1,1,Vehicle or pillion passenger,Female,71,Serious,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,SW148AL,,,0,Car Passenger,unset,No Postcode Info.
+312913,1,1,Driver or Rider,Male,9,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH113PZ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+313013,1,1,Driver or Rider,Male,59,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH225NF,,,0,Minibus Driver,unset,No Postcode Info.
+313013,1,2,Vehicle or pillion passenger,Female,10,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH45NH,,,0,Minibus Passenger,unset,No Postcode Info.
+313413,2,1,Driver or Rider,Male,42,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH52AR,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+313513,2,2,Driver or Rider,Male,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH269EP,,,0,Car Driver,unset,No Postcode Info.
+313513,3,1,Driver or Rider,Female,25,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH269EG,,,0,Car Driver,unset,No Postcode Info.
+313613,2,1,Driver or Rider,Male,34,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH75PG,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+314613,2,1,Vehicle or pillion passenger,Female,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,2,,,0,Car Passenger,unset,No Postcode Info.
+315013,1,1,Driver or Rider,Male,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH225LX,,,0,Car Driver,unset,No Postcode Info.
+315013,2,2,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH177EE,,,0,Car Driver,unset,No Postcode Info.
+315413,1,1,Pedestrian,Male,24,Slight,In carriageway not crossing,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+315713,1,1,Driver or Rider,Male,31,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH65DQ,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+315813,1,1,Vehicle or pillion passenger,Female,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH152AY,,,0,Bus/coach Passenger,unset,No Postcode Info.
+316213,1,1,Pedestrian,Male,4,Slight,Unknown,Crossing from drivers offside,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH153ET,,,0,Pedestrian,unset,No Postcode Info.
+316613,1,1,Vehicle or pillion passenger,Male,84,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,EH113JP,,,0,Bus/coach Passenger,unset,No Postcode Info.
+317413,1,1,Driver or Rider,Male,13,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,2,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+318013,2,1,Driver or Rider,Male,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH178JW,,,0,Car Driver,unset,No Postcode Info.
+318413,1,1,Pedestrian,Female,44,Slight,On footway or verge,Unknown,E,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH178BP,,,0,Pedestrian,unset,No Postcode Info.
+318813,2,1,Driver or Rider,Male,40,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH127RP,,,0,Car Driver,unset,2.422 km
+319013,2,1,Driver or Rider,Female,65,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY47BW,,,0,Car Driver,unset,No Postcode Info.
+319413,1,1,Vehicle or pillion passenger,Female,84,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Standing passenger,,1,,,0,Bus/coach Passenger,unset,No Postcode Info.
+320413,2,1,Driver or Rider,Male,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH87AL,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+320513,2,1,Driver or Rider,Male,46,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH223HN,,,0,Motorcyclist Driver,unset,No Postcode Info.
+320713,1,1,Driver or Rider,Female,64,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309UU,,,0,Car Driver,unset,No Postcode Info.
+321713,2,1,Driver or Rider,Female,36,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH68AY,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+321913,2,1,Driver or Rider,Male,24,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH93BR,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+322713,1,1,Driver or Rider,Male,33,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH421WP,,,0,Car Driver,unset,No Postcode Info.
+322913,2,1,Driver or Rider,Female,37,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH105JB,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+323213,2,1,Driver or Rider,Male,73,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH223JT,,,0,Car Driver,unset,No Postcode Info.
+323213,2,2,Vehicle or pillion passenger,Female,70,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH223JT,,,0,Car Passenger,unset,No Postcode Info.
+324313,1,1,Vehicle or pillion passenger,Male,51,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128LS,,,0,LGV Passenger,unset,No Postcode Info.
+325913,1,1,Pedestrian,Female,23,Slight,On footway or verge,Unknown,Pedestrian sta,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH52PU,,,0,Pedestrian,unset,No Postcode Info.
+326213,2,1,Driver or Rider,Male,64,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Motorcyclist Driver,unset,No Postcode Info.
+326513,2,1,Driver or Rider,Male,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH545AU,,,0,Bus/coach Driver,unset,No Postcode Info.
+326513,2,2,Vehicle or pillion passenger,Female,78,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH166YS,,,0,Bus/coach Passenger,unset,No Postcode Info.
+326513,2,3,Vehicle or pillion passenger,Female,69,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH225LW,,,0,Bus/coach Passenger,unset,No Postcode Info.
+327113,2,1,Driver or Rider,Male,39,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH329FH,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+327313,2,1,Driver or Rider,Female,51,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,KY26DX,,,0,Car Driver,unset,No Postcode Info.
+327313,2,2,Vehicle or pillion passenger,Female,50,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,1,,,0,Car Passenger,unset,No Postcode Info.
+327413,1,1,Vehicle or pillion passenger,Male,13,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Alighting,,EH153DR,,,0,Bus/coach Passenger,unset,No Postcode Info.
+327713,1,1,Pedestrian,Male,4,Serious,In carriageway crossing elsewhere,Crossing from drivers offside-masked by parked or stationary vehicle,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH64DQ,,,0,Pedestrian,unset,No Postcode Info.
+329013,1,1,Driver or Rider,Male,27,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH104LF,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+330313,3,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309YA,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+331013,2,1,Driver or Rider,Male,59,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH345HE,,,0,Motorcyclist Driver,unset,No Postcode Info.
+331213,2,1,Driver or Rider,Female,35,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH41JA,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+331413,1,1,Driver or Rider,Female,47,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH139BY,,,0,Car Driver,unset,No Postcode Info.
+331413,2,2,Driver or Rider,Male,75,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,2,,,0,Car Driver,unset,No Postcode Info.
+331613,1,1,Pedestrian,Female,20,Slight,On footway or verge,Unknown,Unknown,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH299DR,,,0,Pedestrian,unset,No Postcode Info.
+332113,1,1,Pedestrian,Male,30,Serious,In carriageway crossing elsewhere,Crossing from drivers offside,N,Unknown,Not car or van,Not car passenger,Not a psv passenger,,2,,,0,Pedestrian,unset,No Postcode Info.
+333513,1,1,Driver or Rider,Female,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH52NW,,,0,Car Driver,unset,No Postcode Info.
+333513,1,2,Vehicle or pillion passenger,Female,43,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,EH44RQ,,,0,Car Passenger,unset,No Postcode Info.
+334613,2,1,Driver or Rider,Female,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH545BL,,,0,Car Driver,unset,No Postcode Info.
+335513,1,1,Driver or Rider,Male,26,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH41BN,,,0,Car Driver,unset,No Postcode Info.
+336413,1,1,Pedestrian,Male,46,Slight,On footway or verge,Unknown,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,1,,,0,Pedestrian,unset,No Postcode Info.
+336613,1,1,Pedestrian,Male,61,Slight,In carriageway crossing elsewhere within 50 metres of pedestrian crossing,Crossing from drivers nearside,W,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH66JR,,,0,Pedestrian,unset,No Postcode Info.
+338613,2,1,Vehicle or pillion passenger,Female,24,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH309XX,,,0,Motorcyclist Passeng,unset,No Postcode Info.
+339313,2,1,Driver or Rider,Female,68,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,2,,,0,Other,unset,No Postcode Info.
+339613,2,1,Driver or Rider,Female,58,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH145LS,,,0,Car Driver,unset,No Postcode Info.
+342013,1,1,Vehicle or pillion passenger,Male,70,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Sitting passenger,,EH125TE,,,0,Bus/coach Passenger,unset,No Postcode Info.
+342313,1,1,Driver or Rider,Male,31,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH130QT,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+342513,2,1,Driver or Rider,Female,28,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH111DD,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+343513,2,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,BT56GU,,,0,Car Driver,unset,No Postcode Info.
+343813,1,1,Pedestrian,Male,61,Slight,On footway or verge,Unknown,S,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128UW,,,0,Pedestrian,unset,No Postcode Info.
+343913,2,1,Driver or Rider,Female,52,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH152BD,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+344313,1,1,Driver or Rider,Male,44,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH128PH,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+344513,1,1,Vehicle or pillion passenger,Female,76,Slight,Unknown,Unknown,\,Unknown,Not car or van,Front seat car passenger,Not a psv passenger,,KY74UY,,,0,Car Passenger,unset,No Postcode Info.
+344613,2,1,Vehicle or pillion passenger,Female,22,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,G512UT,,,0,Car Passenger,unset,No Postcode Info.
+345313,2,1,Driver or Rider,Male,29,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,2,,,0,Motorcyclist Driver,unset,No Postcode Info.
+345513,2,1,Driver or Rider,Male,38,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH46QD,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+346013,1,1,Driver or Rider,Male,45,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH268NU,,,0,Ped Cyclist Driver,unset,No Postcode Info.
+351613,1,1,Driver or Rider,Male,37,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH51HH,,,0,Car Driver,unset,No Postcode Info.
+351613,2,2,Driver or Rider,Female,17,Slight,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH478RX,,,0,Car Driver,unset,No Postcode Info.
+351613,2,3,Vehicle or pillion passenger,Female,17,Slight,Unknown,Unknown,\,Unknown,Not car or van,Rear car seat passenger,Not a psv passenger,,EH130EU,,,0,Car Passenger,unset,No Postcode Info.
+402213,1,1,Driver or Rider,Female,50,Serious,Unknown,Unknown,\,Unknown,Not car or van,Not car passenger,Not a psv passenger,,EH126JX,,,0,Ped Cyclist Driver,unset,No Postcode Info.
