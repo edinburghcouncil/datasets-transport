@@ -1,0 +1,79 @@
+
+Warning: simplexml_load_string(): Entity: line 1: parser error : Space required after the Public Identifier in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string(): <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"> in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string():                                                  ^ in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string(): Entity: line 1: parser error : SystemLiteral " or ' expected in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string(): <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"> in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string():                                                  ^ in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string(): <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"> in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Warning: simplexml_load_string():                                                  ^ in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 212
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+    0.2038     301504   3. simplexml_load_string() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:212
+
+
+Fatal error: Class 'EdinburghCouncil\Utilities\RuntimeException' not found in /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php on line 213
+
+Call Stack:
+    0.0007     296896   1. {main}() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:0
+    0.0010     300760   2. EdinburghCouncil\Utilities\XmlDataset->load() /Users/nevstokes/Documents/Projects/edinburgh.gov.uk/server/data.php:337
+

@@ -1,0 +1,681 @@
+"Street name",Locality,"Treatment Priority Category","Treatment Priority 1 Route Reference(s)","Treatment Local Priority Route Reference(s)"
+"A8000 - Kirkliston to South Queensferry",,Local,,West_P06
+"Abbey Mount",Abbeyhill,1,CityCentre_P02,
+Abbeyhill,Abbeyhill,1,CityCentre_P02,
+"Abercorn Crescent",Willowbrae,Local,,East_P01
+"Abercorn Road",Willowbrae,Local,,East_P01
+"Abercorn Terrace","Portobello East",Local,,East_P02
+"Academy Park",Albion,Local,,CityCentre_P03
+"Academy Street","South Leith",Local,,CityCentre_P03
+"Admiral Terrace",Bruntsfield,Local,,South_P02
+"Afton Terrace",Trinity,Local,,North_P03
+"Ainslie Place",Stockbridge,1,CityCentre_P01,
+"Albany Street",Broughton,1,CityCentre_P01,
+"Albert Place",Albion,Local,,CityCentre_P04
+"Albert Street",Albion,Local,,CityCentre_P03
+"Albion Place",Albion,Local,,CityCentre_P03
+"Albion Road",Albion,Local,,CityCentre_P03
+"Alcorn Square","Wester Hailes",Local,,SouthWest_P02
+"Alemoor Crescent",Lochend,Local,,CityCentre_P03
+"Alemoor Park",Lochend,Local,,CityCentre_P03
+"Angle Park Terrace",Gorgie,Local,,SouthWest_P04
+"Annandale Street",Broughton,Local,,CityCentre_P04
+Annfield,Newhaven,Local,,North_P03
+"Antigua Street",Albion,Local,,CityCentre_P04
+"Arboretum Avenue",Stockbridge,Local,,North_P04
+"Arboretum Place",Inverleith,Local,,North_P03
+"Arboretum Road",Inverleith,Local,,North_P03
+"Ardmillan Terrace",Gorgie,Local,,SouthWest_P04
+"Argyle Place",Bruntsfield,Local,,South_P03
+"Ashburnham Road","South Queensferry",Local,,West_P06
+"Ashley Terrace",Polwarth,Local,,SouthWest_P04
+"Atholl Crescent",Bruntsfield,1,CityCentre_P01,
+"Atholl Place","New Town",1,CityCentre_P01,
+"Baberton Avenue","Juniper Green",1,"P008 - Currie",
+"Baberton Mains Drive","Baberton Mains",Local,,SouthWest_P02
+"Baberton Mains Loan","Baberton Mains",Local,,SouthWest_P02
+"Baberton Mains View","Baberton Mains",Local,,SouthWest_P02
+"Baberton Mains Wynd","Baberton Mains",Local,,SouthWest_P02
+"Baird Road",Ratho/newbridge,Local,,West_P07
+"Baker's Place",Stockbridge,1,CityCentre_P01,
+"Balfour Place",Bonnington,Local,,CityCentre_P04
+"Balfour Street",Bonnington,Local,,CityCentre_P04
+"Balgreen Road",Saughtonhall,Local,,SouthWest_P04
+"Balmwell Avenue",Gracemount,1,"P003 - Liberton",
+"Balmwell Grove",Gracemount,1,"P003 - Liberton",
+"Balmwell Terrace",Gracemount,1,"P003 - Liberton",
+"Bangholm Loan",Trinity,Local,,North_P03
+"Bangholm Villas",Trinity,Local,,North_P03
+"Bank Street","Old Town",1,CityCentre_P01,
+"Bankhead Avenue","South Gyle",Local,,SouthWest_P01
+"Bankhead Drive","South Gyle",Local,,SouthWest_P01
+"Barnton Avenue","Davidsons Mains",Local,,West_P05
+"Barnton Gardens","Davidsons Mains",Local,,West_P05
+"Bath Street","Portobello West",Local,,East_P02
+"Bavelaw Road",Balerno,1,"P007 - Balerno",
+"Baxter's Place",Broughton,Local,,CityCentre_P04
+"Beach Lane","Portobello East",Local,,East_P02
+"Beaufort Road",Bruntsfield,Local,,South_P02
+"Belgrave Road",Corstorphine,Local,,West_P02
+"Bell's Brae",Stockbridge,Local,,North_P04
+Bellevue,Broughton,Local,,North_P04
+"Bellevue Place",Broughton,Local,,CityCentre_P04
+"Bellevue Road",Broughton,Local,,CityCentre_P04
+"Bernard Street","North Leith",Local,,CityCentre_P04
+"Bernard Terrace",Newington,Local,,South_P03
+"Biggar Road",Swanston,1,"P005 - Fairmilehead",
+"Bingham Avenue",Bingham,Local,,East_P01
+"Bingham Crescent",Bingham,Local,,East_P01
+"Bingham Drive",Bingham,Local,,East_P01
+"Blacket Avenue",Newington,Local,,South_P03
+"Blackford Avenue",Blackford,"1 and Local","P003 - Liberton",South_P02
+"Blackford Glen Road",Blackford,1,"P003 - Liberton",
+"Bo'ness Road","South Queensferry",Local,,West_P06
+"Bonaly Avenue",Colinton,1,"P009 - Colinton",
+"Bonaly Brae",Colinton,1,"P009 - Colinton",
+"Bonaly Crescent",Colinton,1,"P009 - Colinton",
+"Bonaly Drive",Colinton,1,"P009 - Colinton",
+"Bonaly Grove",Colinton,1,"P009 - Colinton",
+"Bonaly Road",Colinton,1,"P009 - Colinton",
+"Bonnington Road",Leith,Local,,CityCentre_P04
+"Boswall Drive",Boswall,Local,,North_P03
+"Boswall Loan",Boswall,Local,,North_P03
+"Boswall Parkway",Royston,Local,,North_P03
+"Bowhill Terrace",Warriston,Local,,North_P03
+"Braefoot Terrace",Mayfield,1,"P003 - Liberton",
+"Braid Road","Braid Hills",1,"P005 - Fairmilehead",
+"Brandon Street",Broughton,Local,,North_P04
+"Brandon Terrace",Broughton,Local,,North_P04
+"Bread Street","Old Town",1,CityCentre_P02,
+"Bridge Road",Hailes,1,"P009 - Colinton",
+"Bridge Road",Balerno,1,"P007 - Balerno",
+"Bridge Street",Newbridge,Local,,West_P07
+"Brighton Place","Portobello West",Local,,East_P02
+"Bristo Place",Newington,1,CityCentre_P02,
+"Broomhall Drive",Broomhall,Local,,West_P03
+"Broomhouse Court",Broomhouse,Local,,SouthWest_P01
+"Broomhouse Crescent",Broomhouse,Local,,SouthWest_P01
+"Broomhouse Drive",Broomhouse,Local,,SouthWest_P01
+"Broomhouse Grove",Broomhouse,Local,,SouthWest_P01
+"Broomhouse Medway",Broomhouse,Local,,SouthWest_P01
+"Broomhouse Place North",Broomhouse,Local,,SouthWest_P01
+"Broomhouse Place South",Broomhouse,Local,,SouthWest_P01
+"Broomhouse Road",Broomhouse,Local,,West_P03
+"Broomhouse Terrace",Broomhouse,Local,,SouthWest_P01
+"Brougham Place",Newington,Local,,South_P02
+"Brougham Street",Newington,Local,,South_P02
+"Broughton Place",Broughton,Local,,CityCentre_P04
+"Broughton Road",Warriston,Local,,CityCentre_P04
+"Broughton Street",Broughton,"1 and Local",CityCentre_P01,CityCentre_P04
+"Brunswick Place",Broughton,Local,,CityCentre_P04
+"Brunswick Road",Broughton,Local,,CityCentre_P03
+"Brunton Gardens",Broughton,Local,,CityCentre_P03
+"Brunton Place",Broughton,Local,,CityCentre_P03
+"Bruntsfield Place",Bruntsfield,Local,,South_P02
+"Bryce Road",Riccarton/muirwood,1,"P008 - Currie",
+"Bryson Road",Polwarth,Local,,SouthWest_P04
+"Buccleuch Street",Newington,Local,,South_P03
+"Buckstone Circle",Buckstone,1,"P005 - Fairmilehead",
+"Buckstone Crescent",,1,"P005 - Fairmilehead",
+"Buckstone Drive",Buckstone,1,"P005 - Fairmilehead",
+"Buckstone Loan",,1,"P005 - Fairmilehead",
+"Buckstone Loan East",Buckstone,1,"P005 - Fairmilehead",
+"Buckstone Road",,1,"P005 - Fairmilehead",
+"Buckstone Terrace",Buckstone,1,"P005 - Fairmilehead",
+"Builyeon Road","South Queensferry",Local,,West_P06
+"Burgess Road","South Queensferry",Local,,West_P06
+"Cadzow Place",Abbeyhill,Local,,CityCentre_P03
+"Caiystane Gardens",Caiystane,1,"P006 - Oxgangs",
+"Calder Crescent",Calders,Local,,SouthWest_P02
+"Calder Drive",Calders,Local,,SouthWest_P02
+"Calder Gardens",Calders,Local,,SouthWest_P02
+"Calder Grove",Calders,Local,,SouthWest_P02
+"Calder Park",Calders,Local,,SouthWest_P02
+"Calder Place",Calders,Local,,SouthWest_P02
+"Calder Road",Edinburgh,Local,,SouthWest_P01
+"Calder Road - SR Numbers 187 - 385",Parkhead,Local,,SouthWest_P01
+"Calder Road - SR Numbers 298 - 370",Broomhouse,Local,,SouthWest_P01
+"Calder Road - SR Numbers 387 - 495",Sighthill,Local,,SouthWest_P02
+"Calder View",Calders,Local,,SouthWest_P02
+"Caledonian Cycle Track",,1,"CY001 - NorthNetwork",
+"Calton Road","Old Town",1,CityCentre_P01,
+"Cambridge Avenue",Bonnington,Local,,CityCentre_P04
+"Cambridge Street","Old Town",1,CityCentre_P02,
+"Cameron Crescent",Prestonfield,1,"PC001 - South_IR",
+"Cameron House Avenue",Prestonfield,Local,,South_P03
+"Cameron Terrace",Prestonfield,Local,,South_P03
+"Cameron Toll",Prestonfield,Local,,South_P03
+"Canaan Lane",Newbattle,Local,,South_P02
+"Candlemaker Row","Old Town",1,CityCentre_P02,
+"Candlemaker's Park",Moredun,1,"P004 - Inch_Moredun",
+Canongate,"Old Town",1,CityCentre_P02,
+Canonmills,Broughton,Local,,North_P04
+"Captain's Drive",Gracemount,1,"P003 - Liberton",
+"Captain's Road",Gracemount,1,"P003 - Liberton",
+"Cargil Terrace",Trinity,Local,,North_P03
+"Carlowrie Avenue",Dalmeny,Local,,West_P06
+"Carlowrie Crescent",Dalmeny,Local,,West_P06
+"Carrick Knowe Gardens","Carrick Knowe",Local,,West_P03
+"Carrington Road",Inverleith,Local,,North_P04
+"Castle Street","New Town",1,CityCentre_P01,
+"Castle Terrace","Old Town",1,CityCentre_P02,
+Castlehill,"Old Town",1,CityCentre_P02,
+Causewayside,Grange,Local,,South_P03
+"Chalmers Street",Newington,Local,,South_P02
+"Chambers Street","Old Town",1,CityCentre_P02,
+"Chancelot Path",Warriston,1,"CY001 - NorthNetwork",
+"Chancelot Terrace",Bonnington,Local,,North_P03
+"Chapel Street","South Side",Local,,South_P03
+"Charlotte Square","New Town",1,CityCentre_P01,
+"Chesser Avenue",Slateford,Local,,SouthWest_P04
+"Cheyne Street",Stockbridge,Local,,North_P04
+"Circus Place",Stockbridge,1,CityCentre_P01,
+"Claremont Park",Lochend,Local,,CityCentre_P03
+"Claremont Road",Lochend,Local,,CityCentre_P03
+"Clark Road",Trinity,Local,,North_P03
+"Clearburn Road",Prestonfield,Local,,South_P03
+"Clerk Street",Newington,Local,,South_P03
+"Clermiston Drive",Barnton,Local,,West_P04
+"Clermiston Road",Corstorphine,Local,,West_P01
+"Clermiston Road North",Barnton,Local,,West_P01
+"Clifton Terrace","New Town",1,CityCentre_P02,
+"Clovenstone Drive",Westerhailes,Local,,SouthWest_P02
+"Clovenstone Gardens",Westerhailes,Local,,SouthWest_P02
+"Clovenstone Park",Westerhailes,Local,,SouthWest_P02
+"Clovenstone Road",Westerhailes,Local,,SouthWest_P02
+"Coates Place","New Town",1,CityCentre_P01,
+"Cockburn Crescent",Balerno,1,"P007 - Balerno",
+"Cockburn Street","Old Town",1,CityCentre_P01,
+"Coillesdene Avenue",Joppa,Local,,East_P02
+"Coillesdene Drive",Joppa,Local,,East_P02
+"Colinton Mains Drive",Firrhill,1,"P006 - Oxgangs",
+"Colinton Mains Gardens",Firrhill,1,"P006 - Oxgangs",
+"Colinton Road",Firrhill,"1 and Local","P006 - Oxgangs, P009 - Colinton",South_P02
+"Collier Place",Niddrie,Local,,East_P02
+"Comely Bank",Stockbridge,Local,,North_P04
+"Comely Bank Road",Stockbridge,"1 and Local",CityCentre_P01,North_P04
+"Comiston Road",Cluny,"1 and Local","P005 - Fairmilehead",South_P02
+"Comiston Springs Avenue",Pentland,1,"P005 - Fairmilehead",
+"Constitution Street","South Leith",Local,,CityCentre_P04
+"Corbiehill Road",Corbiehill,Local,,West_P05
+"Corslet Crescent",Riccarton/muirwood,1,"P008 - Currie",
+"Corslet Place",Riccarton/muirwood,1,"P008 - Currie",
+"Corslet Road",Riccarton/muirwood,1,"P008 - Currie",
+"Corstorphine High Street",Broomhall,Local,,West_P03
+"Corstorphine Road",Murrayfield,Local,,"SouthWest_P04, West_P02"
+Cowgate,"Old Town",1,CityCentre_P02,
+Cowgatehead,"Old Town",1,CityCentre_P02,
+"Craigcrook Road",Blackhall,Local,,North_P02
+"Craigentinny Road",Craigentinny,Local,,East_P01
+"Craighall Avenue",Newhaven,Local,,North_P03
+"Craighall Bank",Newhaven,Local,,North_P03
+"Craighall Road",Trinity,Local,,North_P03
+"Craighouse Road","Easter Craiglockhart",Local,,South_P02
+"Craigleith Avenue North",Ravelston,Local,,West_P02
+"Craigleith Crescent",Ravelston,Local,,West_P02
+"Craigleith Road",Craigleith,Local,,North_P02
+"Craiglockhart Avenue","Wester Craiglockhart",Local,,SouthWest_P04
+"Craigmillar Castle Avenue",Craigmillar,Local,,East_P02
+"Craigmillar Castle Gardens",Craigmillar,Local,,East_P02
+"Craigmillar Castle Loan",Craigmillar,Local,,East_P02
+"Craigmillar Castle Road",Craigmillar,Local,,East_P02
+"Craigmillar Park",Mayfield,Local,,South_P03
+"Craigmount Avenue North",Craigmount,Local,,West_P04
+"Craigmount Brae",Craigmount,Local,,West_P04
+"Craigmount Way",Craigmount,Local,,West_P04
+"Craigour Drive",,1,"P004 - Inch_Moredun",
+"Craigour Place",Moredun,1,"P004 - Inch_Moredun",
+"Craigs Road","North Gyle",Local,,West_P03
+"Cramond Crescent",Cramond,Local,,West_P05
+"Cramond Glebe Road",Cramond,Local,,West_P05
+"Cramond Road North",Cramond,Local,,West_P05
+"Cramond Road South",Silverknowes,Local,,West_P05
+"Cranston Street","Old Town",1,CityCentre_P01,
+"Crewe Road Gardens",Royston,Local,,North_P01
+"Crewe Road North",,Local,,North_P03
+"Crewe Road South",,Local,,North_P02
+"Crighton Place",Albion,Local,,CityCentre_P04
+"Croall Place",Broughton,Local,,CityCentre_P04
+"Curriehill Road",Riccarton/muirwood,1,"P008 - Currie",
+"Currievale Drive",Curriehill,1,"P008 - Currie",
+"Cycle Track at King George IV Park",Broughton,1,"CY001 - NorthNetwork",
+"Cycle Track From Trinity Station To Cale",Warriston,1,"CY001 - NorthNetwork",
+"Cycle Track From Trinity Station To Lowe",Trinity,1,"CY001 - NorthNetwork",
+"Cycle Track From Trinity To Heriot Hill",Warriston,1,"CY001 - NorthNetwork",
+"Cycle Track From Victoria Park To Stedfa",Warriston,1,"CY001 - NorthNetwork",
+"Cycle Track Through Bingham Park",Bingham,1,"PC001 - South_IR",
+"Dalkeith Road",Prestonfield,1,"PC001 - South_IR",
+"Dalmeny Street",Albion,Local,,CityCentre_P03
+"Dalry Road",Dalry,Local,,SouthWest_P04
+"Dalziel Place",Broughton,Local,,East_P01
+"Dean Bank Lane",Stockbridge,Local,,North_P04
+"Dean Bridge",,1,CityCentre_P01,
+"Dean Park Crescent",Stockbridge,Local,,North_P04
+"Dean Path",Stockbridge,Local,,North_P04
+"Dean Street",Stockbridge,Local,,North_P04
+"Deanhaugh Street",Stockbridge,1,CityCentre_P01,
+"Deanpark Avenue",Balerno,1,"P007 - Balerno",
+"Deanpark Brae",Balerno,1,"P007 - Balerno",
+"Deanpark Place",Balerno,1,"P007 - Balerno",
+"Devon Place",Roseburn,Local,,West_P02
+"Dolphin Avenue",Curriehill,1,"P007 - Balerno",
+"Dolphin Gardens East",Curriehill,1,"P007 - Balerno",
+"Dolphin Gardens West",Curriehill,1,"P007 - Balerno",
+"Dolphin Road",Curriehill,1,"P007 - Balerno",
+"Downie Terrace",Murrayfield,Local,,West_P02
+"Dreghorn Loan",Redford,1,"P009 - Colinton",
+"Drum Brae Crescent",Barnton,Local,,West_P04
+"Drum Brae Drive",Clerwood,Local,,West_P01
+"Drum Brae North",Craigmount,Local,,West_P01
+"Drum Brae South",Craigmount,Local,,West_P01
+"Drum Brae Terrace",Barnton,Local,,West_P04
+"Drum Street","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Drylaw Grove","Wester Drylaw",1,"CY001 - NorthNetwork",
+"Dublin Street",Broughton,1,CityCentre_P01,
+"Duddingston Crescent",Magdalene,Local,,East_P02
+"Duddingston Park",Magdalene,Local,,East_P02
+"Duddingston Park South",Bingham,Local,,East_P02
+"Duddingston Road",Duddingston,Local,,East_P01
+"Duddingston Road West",Duddingston,Local,,"East_P01, East_P02"
+"Duddingston Row",Bingham,Local,,East_P01
+"Duke Street","South Leith",Local,,CityCentre_P03
+"Dumbryden Drive",Hailesland,Local,,SouthWest_P03
+"Duncan Place","South Leith",Local,,CityCentre_P03
+"Dundas Street",Broughton,"1 and Local",CityCentre_P01,North_P04
+"Dundee Street",Polwarth,"1 and Local",CityCentre_P02,SouthWest_P04
+"Dundee Terrace",Polwarth,Local,,SouthWest_P04
+"Earl Grey Street",Tollcross,1,CityCentre_P02,
+"East Barnton Avenue","Davidsons Mains",Local,,West_P05
+"East Claremont Street",Broughton,Local,,CityCentre_P04
+"East Fettes Avenue",Inverleith,Local,,North_P04
+"East Fountainbridge","Old Town",1,CityCentre_P02,
+"East Hermitage Place",Lochend,Local,,CityCentre_P03
+"East London Street",Broughton,Local,,CityCentre_P04
+"East Market Street","Old Town",1,CityCentre_P01,
+"East Preston Street",Newington,Local,,South_P03
+"East Trinity Road",Trinity,Local,,North_P03
+"Easter Drylaw Drive","Easter Drylaw",Local,,North_P01
+"Easter Road",Broughton,"1 and Local",CityCentre_P02,CityCentre_P03
+Eastfield,Joppa,Local,,East_P02
+"Eden Terrace",Newbattle,Local,,South_P02
+"Edinburgh Road",Cramond,Local,,West_P06
+"Eildon Terrace",Warriston,Local,,North_P04
+"Elder Street","New Town",1,CityCentre_P01,
+"Ellen's Glen Road",Liberton,1,"P003 - Liberton",
+"Ellersly Road",Murrayfield,Local,,West_P02
+"Elm Row",Broughton,Local,,CityCentre_P04
+"Esslemont Road",Mayfield,1,"P003 - Liberton",
+"Eyre Crescent",Broughton,Local,,North_P04
+"Eyre Place",,Local,,North_P04
+"Fair-A-Far Shot",Cramond,Local,,West_P05
+"Falcon Gardens",Newbattle,Local,,South_P02
+"Falcon Road",Newbattle,Local,,South_P02
+"Falcon Road West",Newbattle,Local,,South_P02
+"Featherhall Avenue",Broomhall,Local,,West_P03
+"Ferniehill Drive",Moredun,1,"P004 - Inch_Moredun",
+"Ferniehill Road",Moredun,1,"P004 - Inch_Moredun",
+"Ferniehill Street",Moredun,1,"P004 - Inch_Moredun",
+"Ferry Road",Craigleith,Local,,"CityCentre_P04, North_P01, North_P03, West_P05"
+"Ferry Road (SR Nos 703 - 775)",Craigleith,Local,,North_P01
+"Ferry Road Drive",Pilton,Local,,North_P01
+"Fettes Avenue",Inverleith,Local,,North_P04
+"Figgate Street","Portobello West",Local,,East_P02
+"Firrhill Crescent",Firrhill,1,"P006 - Oxgangs",
+"Firrhill Drive",Firrhill,1,"P006 - Oxgangs",
+"Fleshmarket Close","Old Town",Local,,CityCentre_HS01
+"Forbes Road",Bruntsfield,Local,,South_P02
+"Ford's Road",Stenhouse,Local,,"SouthWest_P01, SouthWest_P04"
+"Forrest Road",Tollcross,1,CityCentre_P02,
+"Forth View Avenue",Currie,1,"P007 - Balerno",
+"Forth View Crescent",Currie,1,"P007 - Balerno, P008 - Currie",
+"Forth View Road",Currie,1,"P007 - Balerno",
+"Foulis Crescent","Baberton Mains",1,"P008 - Currie",
+Fountainbridge,Tollcross,1,CityCentre_P02,
+"Frederick Street","New Town",1,CityCentre_P01,
+"Frogston Road East",Alnwickhill,1,"P003 - Liberton",
+"Frogston Road West",Frogston,1,"P005 - Fairmilehead",
+"Gamekeeper's Road",Cramond,Local,,West_P05
+"Gateside Road",Kirkliston,Local,,West_P07
+"Gayfield Place",Broughton,Local,,CityCentre_P04
+"George IV Bridge","Old Town",1,CityCentre_P02,
+"George Street","New Town",1,CityCentre_P01,
+"Gillespie Place",Bruntsfield,Local,,South_P02
+"Gillespie Road",Hailes,1,"P009 - Colinton",
+"Gilmerton Dykes Avenue","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Gilmerton Dykes Crescent","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Gilmerton Dykes Drive","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Gilmerton Dykes Road","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Gilmerton Dykes Street","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Gilmerton Road",Edinburgh,1,"P004 - Inch_Moredun",
+"Gladstone Place",Lochend,Local,,CityCentre_P03
+"Glanville Place",Stockbridge,1,CityCentre_P01,
+"Glasgow Road",Newbridge,Local,,West_P07
+"Glasgow Road",Edinburgh,Local,,West_P03
+"Glenfinlas Street",Stockbridge,1,CityCentre_P01,
+"Glenvarloch Crescent",Liberton,1,"P004 - Inch_Moredun",
+"Gordon Street",Albion,Local,,CityCentre_P03
+"Gordon Terrace",Mayfield,1,"P003 - Liberton",
+"Gorgie Park Close",Dalry,Local,,SouthWest_P04
+"Gorgie Park Road",Dalry,Local,,SouthWest_P04
+"Gorgie Road",Gorgie,Local,,"SouthWest_P01, SouthWest_P04"
+"Gracemount Avenue",Gracemount,1,"P003 - Liberton",
+"Gracemount Drive",Gracemount,1,"P003 - Liberton",
+"Grange Loan",Grange,Local,,South_P02
+"Granton Crescent",Boswall,Local,,North_P03
+"Granton Road",Trinity,Local,,North_P03
+"Granton Square",Boswall,Local,,North_P03
+Grassmarket,"Old Town",1,CityCentre_P02,
+"Gray's Loan",Bruntsfield,Local,,South_P02
+"Great Junction Street","North Leith",Local,,CityCentre_P04
+"Great Stuart Street",Stockbridge,1,CityCentre_P01,
+"Greenbank Crescent",Greenbank,1,"P006 - Oxgangs",
+"Greenbank Grove",Greenbank,1,"P006 - Oxgangs",
+"Greendykes Road",Craigmillar,Local,,East_P02
+Greenside,Broughton,Local,,CityCentre_P04
+"Greenside Place",Albion,Local,,CityCentre_P04
+"Greyfriars Place",Newington,1,CityCentre_P02,
+"Grierson Road",Boswall,Local,,North_P03
+"Grindlay Street","Old Town",1,CityCentre_P02,
+"Groathill Avenue",Craigleith,Local,,North_P02
+"Groathill Road North","Easter Drylaw",Local,,North_P01
+"Haddington Place",Broughton,Local,,CityCentre_P04
+"Hailesland Road",Hailesland,Local,,"SouthWest_P02, SouthWest_P03"
+"Hall Terrace","Carrick Knowe",Local,,West_P03
+"Hamilton Drive",Durham,Local,,East_P01
+"Hamilton Drive West",Durham,Local,,East_P01
+"Hamilton Place",Stockbridge,Local,,North_P04
+"Hamilton Terrace",Durham,Local,,East_P01
+"Hampton Place","Wester Coates",Local,,West_P02
+"Hanover Street","New Town",1,CityCentre_P01,
+"Harrison Road",Polwarth,Local,,SouthWest_P04
+"Harvesters Way",Westerhailes,Local,,SouthWest_P02
+"Hawkhill Avenue",Albion,Local,,CityCentre_P03
+"Hawthorn Place","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Hay Avenue",Niddrie,Local,,East_P02
+"Hay Gardens",Niddrie,Local,,East_P02
+Haymarket,"New Town",1,CityCentre_P02,
+"Haymarket Terrace","New Town",1,CityCentre_P02,
+"Henderson Row",Stockbridge,Local,,North_P04
+"Henderson Street","North Leith",Local,,CityCentre_P04
+"Heriot Bridge",Newington,1,CityCentre_P02,
+"Hermitage Park",Lochend,Local,,CityCentre_P03
+"Hermitage Place",Lochend,Local,,CityCentre_P03
+"Hewlett Packard Plant Access Road","South Queensferry",Local,,West_P06
+"High Buckstone",Buckstone,1,"P005 - Fairmilehead",
+"High Street","South Queensferry",Local,,West_P06
+"High Street",Kirkliston,Local,,West_P07
+"High Street","Old Town",1,CityCentre_P02,
+"Hillend Place",Willowbrae,Local,,East_P01
+"Hillhouse Road",Corbiehill,Local,,North_P02
+Hillview,Craigleith,Local,,North_P02
+"Hillview Cottages",Ratho/newbridge,Local,,West_P07
+"Hillwood Road","Ratho Station",Local,,West_P07
+"Holyrood Park Road",Newington,1,"PC001 - South_IR",
+"Holyrood Road","Old Town",1,CityCentre_P02,
+"Home Street",Newington,Local,,South_P02
+"Hope Lane","Portobello East",Local,,East_P02
+"Hope Park Crescent",Newington,Local,,South_P03
+"Hope Park Terrace",Newington,Local,,South_P03
+"Hope Street","New Town",1,CityCentre_P01,
+"Hopetoun Road","South Queensferry",Local,,West_P06
+"Hoseason Gardens",Clerwood,Local,,West_P04
+"House O'hill Terrace",Corbiehill,Local,,North_P02
+"Howard Place",Warriston,Local,,North_P04
+"Howard Street",Warriston,Local,,North_P04
+"Howden Hall Road",Gracemount,1,"P003 - Liberton",
+"Howe Street",Stockbridge,1,CityCentre_P01,
+"Hutchison Avenue",Slateford,Local,,SouthWest_P04
+"Hutchison Crossway",Slateford,Local,,SouthWest_P04
+"Hutchison Gardens",Slateford,Local,,SouthWest_P04
+"Hutchison Loan",Slateford,Local,,SouthWest_P04
+"Hutchison Medway",Slateford,Local,,SouthWest_P04
+"Hutchison Place",Slateford,Local,,SouthWest_P04
+"Hutchison Road",Slateford,Local,,SouthWest_P04
+"Hyvot Loan","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Hyvot Mill Drive","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Inchview Terrace",Craigentinny,Local,,East_P01
+"India Place",Stockbridge,Local,,North_P04
+"Inglis Green Road",Kingsknowe,Local,,SouthWest_P03
+"Innocent Railway Path",Duddingston,1,"PC001 - South_IR",
+"Inverleith Gardens",Craigleith,Local,,North_P03
+"Inverleith Row",Inverleith,Local,,North_P04
+"Inverleith Terrace",Inverleith,Local,,North_P04
+"Iona Street",Albion,Local,,CityCentre_P03
+"Ivanhoe Crescent",Liberton,1,"P004 - Inch_Moredun",
+"Jameson Place",Albion,Local,,CityCentre_P04
+"Jawbone Walk",Newington,1,"South_P01 - Meadows",
+"Jeffrey Street","Old Town",1,CityCentre_P01,
+"Jock's Lodge",Willowbrae,Local,,East_P01
+"Johnsburn Road",Balerno,1,"P007 - Balerno",
+"Joppa Road","Portobello East",Local,,East_P02
+"Kilgraston Road",Grange,Local,,South_P02
+"King's Haugh",Craigmillar,Local,,East_P02
+"Kingsknowe Road North",Kingsknowe,Local,,SouthWest_P03
+"Kingsknowe Road South",Kingsknowe,Local,,SouthWest_P03
+"Kingston Avenue",Inch,1,"P004 - Inch_Moredun",
+"Kirk Brae",Liberton,1,"P003 - Liberton",
+Kirkgate,"North Leith",Local,,CityCentre_P04
+Kirkgate,Liberton,1,"P003 - Liberton",
+"Kirkliston Road","South Queensferry",Local,,West_P06
+"Lady Road",Mayfield,1,"P003 - Liberton",
+Ladycroft,Balerno,1,"P007 - Balerno",
+"Ladywell Avenue",Broomhall,Local,,West_P03
+"Ladywell Road",Broomhall,Local,,West_P03
+"Lampacre Road","Carrick Knowe",Local,,West_P03
+"Lanark Road",,"1 and Local","P008 - Currie","SouthWest_P03, SouthWest_P04"
+"Lanark Road West",Curriehill,1,"P007 - Balerno, P008 - Currie",
+"Lasswade Road","Hyvots Bank",1,"P003 - Liberton, P004 - Inch_Moredun",
+"Lauderdale Street",Bruntsfield,Local,,South_P02
+"Laurel Terrace",Polwarth,Local,,SouthWest_P04
+"Laurie Street","South Leith",Local,,CityCentre_P03
+"Lauriston Gardens",Newington,Local,,South_P02
+"Lauriston Place",Southside,1,CityCentre_P02,
+"Laverockdale Crescent",Colinton,1,"P009 - Colinton",
+Lawnmarket,"Old Town",1,CityCentre_P02,
+"Leamington Terrace",Bruntsfield,Local,,South_P02
+"Leamington Walk",Bruntsfield,1,"South_P01 - Meadows",
+"Leith Street","New Town",Local,,CityCentre_P04
+"Leith Walk",Albion,Local,,CityCentre_P04
+"Lennox Row",Trinity,Local,,North_P03
+"Leopold Place",Broughton,Local,,CityCentre_P03
+"Leslie Place",Stockbridge,Local,,North_P04
+"Leven Street",Newington,Local,,South_P02
+"Liberton Brae",Alnwickhill,1,"P003 - Liberton",
+"Liberton Dams",Mayfield,1,"P004 - Inch_Moredun",
+"Liberton Gardens",Alnwickhill,1,"P003 - Liberton",
+"Liberton Road",Mayfield,"1 and Local","P004 - Inch_Moredun",South_P03
+"Lilyhill Terrace",Willowbrae,Local,,East_P01
+"Links Gardens","South Leith",Local,,CityCentre_P03
+"Livingstone Place",Bruntsfield,Local,,South_P03
+"Loaning Road",Restalrig,Local,,East_P01
+"Loch Road","South Queensferry",Local,,West_P06
+"Lochend Road",Lochend,Local,,CityCentre_P03
+"Lochend Road South",Meadowbank,Local,,"CityCentre_P03, East_P01"
+"Loganlea Drive",Restalrig,Local,,East_P01
+"Loganlea Gardens",Restalrig,Local,,East_P01
+"London Road",,Local,,"CityCentre_P03, East_P01"
+"Longstone Grove",Kingsknowe,Local,,SouthWest_P03
+"Longstone Road",Kingsknowe,Local,,SouthWest_P03
+"Lonsdale Terrace",Newington,Local,,South_P02
+"Lorne Street",Albion,Local,,CityCentre_P03
+"Lothian Road","Old Town",1,CityCentre_P02,
+"Lower Granton Road",Trinity,Local,,North_P03
+"Magdalene Drive",Magdalene,Local,,East_P02
+"Magdalene Gardens",Magdalene,Local,,East_P02
+"Main Street",Dalmeny,Local,,West_P06
+"Main Street",Balerno,1,"P007 - Balerno",
+"Main Street",Kirkliston,Local,,West_P07
+"Main Street","Davidsons Mains",Local,,West_P05
+"Main Street",Ratho/newbridge,Local,,West_P07
+"Manderston Street",Albion,Local,,CityCentre_P03
+"Manse Road",Kirkliston,Local,,West_P07
+"Manse Road",Broomhall,Local,,West_P03
+"Mansfield Place",Broughton,Local,,North_P04
+"Mansfield Road",Balerno,1,"P007 - Balerno",
+"Marchbank Drive",Balerno,1,"P007 - Balerno",
+"Marchbank Gardens",Balerno,1,"P007 - Balerno",
+"Marchbank Grove",Balerno,1,"P007 - Balerno",
+"Marchbank Place",Balerno,1,"P007 - Balerno",
+"Marchbank Way",Balerno,1,"P007 - Balerno",
+"Marchmont Road",Bruntsfield,Local,,South_P02
+"Marionville Avenue",Meadowbank,Local,,East_P01
+"Marionville Road",Meadowbank,Local,,East_P01
+"Market Street","Old Town",1,CityCentre_P01,
+"Maybury Drive",Bughtlin,Local,,West_P04
+"Mayfield Gardens",Prestonfield,Local,,South_P03
+"Mayfield Road",Mayfield,"1 and Local","P003 - Liberton",South_P03
+"Mcdonald Road",,Local,,CityCentre_P04
+"Mcleod Street",Gorgie,Local,,SouthWest_P04
+"Meadow Place Road",Broomhall,Local,,West_P03
+"Meadowfield Drive",Duddingston,Local,,East_P01
+"Meadowhouse Road","Carrick Knowe",Local,,West_P03
+"Melville Terrace",Bruntsfield,Local,,South_P03
+"Middle Meadow Walk",Tollcross,1,"South_P01 - Meadows",
+"Mill Lane","North Leith",Local,,CityCentre_P04
+"Millerfield Place",Bruntsfield,Local,,South_P03
+"Milton Drive",Joppa,Local,,East_P02
+"Milton Road",Magdalene,Local,,East_P02
+"Milton Road East",Joppa,Local,,East_P02
+"Milton Road West",Durham,Local,,East_P01
+"Milton Terrace",Joppa,Local,,East_P02
+"Minto Street",Newington,Local,,South_P03
+"Moat Drive",Slateford,Local,,SouthWest_P04
+"Moffat Way",Niddrie,Local,,East_P02
+"Moira Terrace",Craigentinny,Local,,East_P01
+"Montgomery Street",Broughton,Local,,CityCentre_P03
+Montpelier,Bruntsfield,Local,,South_P02
+"Montpelier Park",Bruntsfield,Local,,South_P02
+"Moredun Dykes Road","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Moredun Park Court",Moredun,1,"P004 - Inch_Moredun",
+"Moredun Park Road",Moredun,1,"P004 - Inch_Moredun",
+"Moredunvale Bank",Moredun,1,"P004 - Inch_Moredun",
+"Moredunvale Place",Moredun,1,"P004 - Inch_Moredun",
+"Moredunvale Road",Moredun,1,"P004 - Inch_Moredun",
+"Morningside Place",Morningside,Local,,South_P02
+"Morningside Road",Morningside,Local,,South_P02
+"Morrison Street",Bruntsfield,1,CityCentre_P02,
+"Mount Vernon Road",Liberton,1,"P003 - Liberton",
+"Mountcastle Drive North",Durham,Local,,East_P01
+"Mountcastle Drive South",Bingham,Local,,East_P02
+"Mounthooly Loan",Frogston,1,"P005 - Fairmilehead",
+"Muir Wood Crescent",Riccarton/muirwood,1,"P008 - Currie",
+"Muir Wood Road",Riccarton/muirwood,1,"P008 - Currie",
+"Muirhouse Parkway",Muirhouse,Local,,North_P01
+"Murieston Crescent",Dalry,Local,,SouthWest_P04
+"Murieston Lane",Dalry,Local,,SouthWest_P04
+"Murieston Place",Dalry,Local,,SouthWest_P04
+"Murieston Road",Dalry,Local,,SouthWest_P04
+"Murieston Terrace",Dalry,Local,,SouthWest_P04
+"Murrayburn Approach",Sighthill,Local,,SouthWest_P02
+"Murrayburn Drive",Calders,Local,,SouthWest_P02
+"Murrayburn Gardens",Hailesland,Local,,SouthWest_P02
+"Murrayburn Gate",Hailesland,Local,,SouthWest_P02
+"Murrayburn Park",Hailesland,Local,,SouthWest_P02
+"Murrayburn Road",Hailesland,Local,,"SouthWest_P02, SouthWest_P03"
+"Murrayfield Avenue","New Town",Local,,West_P02
+"Murrayfield Drive",Murrayfield,Local,,West_P02
+"Murrayfield Road",Murrayfield,Local,,West_P02
+"Musselburgh Road",Joppa,Local,,East_P02
+"Muttonhole Gate",Drylaw,1,"CY001 - NorthNetwork",
+"Myreside Road",Morningside,Local,,South_P02
+"Nether Currie Road",Riccarton/muirwood,1,"P008 - Currie",
+"New Market Road",Slateford,Local,,SouthWest_P04
+"New Mart Road",Slateford,Local,,SouthWest_P04
+"New Street","Old Town",1,CityCentre_P01,
+"New Swanston",Redford,1,"P005 - Fairmilehead",
+"Newbattle Terrace",Newbattle,Local,,South_P02
+"Newcraighall Drive",Newcraighall,Local,,East_P02
+"Newcraighall Road",,Local,,East_P02
+"Newhalls Road","South Queensferry",Local,,West_P06
+"Newhaven Main Street",Newhaven,Local,,North_P03
+"Newhaven Road",Newhaven,Local,,North_P03
+"Newington Road",Newington,Local,,South_P03
+Newkirkgate,"North Leith",Local,,CityCentre_P04
+"Newliston Road",Kirkliston,Local,,West_P07
+"Newtoft Street","Hyvots Bank",1,"P004 - Inch_Moredun",
+"Nicolson Street",Newington,1,CityCentre_P02,
+"Niddrie Farm Grove",Craigmillar,Local,,East_P02
+"Niddrie House Avenue",Craigmillar,Local,,East_P02
+"Niddrie Mains Road",Craigmillar,Local,,East_P02
+"Niddrie Mains Terrace",Niddrie,Local,,East_P02
+"North Bank Street","Old Town",1,CityCentre_P01,
+"North Bridge","Old Town",1,CityCentre_P01,
+"North Bughtlin Place",Bughtlin,Local,,West_P04
+"North Bughtlin Road",Bughtlin,Local,,West_P04
+"North Castle Street","New Town",1,CityCentre_P01,
+"North Charlotte Street","New Town",1,CityCentre_P01,
+"North Gyle Road","North Gyle",Local,,West_P03
+"North Junction Street","North Leith",Local,,CityCentre_P04
+"North Meadow Walk",Newington,Local,,South_P02
+"North St Andrew Street","New Town",1,CityCentre_P01,
+"North St David Street","New Town",1,CityCentre_P01,
+"North Street",Ratho/newbridge,Local,,West_P07
+"North West Circus Place",Stockbridge,1,CityCentre_P01,
+"Northfield Broadway",Mountcastle,Local,,East_P01
+"Northfield Drive",Mountcastle,Local,,East_P01
+"Northfield Road",Mountcastle,Local,,East_P01
+Oakdale,Balerno,1,"P007 - Balerno",
+"Ocean Drive",Newhaven,Local,,CityCentre_P04
+"Old Dalkeith Road",Edinburgh,"1 and Local","P004 - Inch_Moredun",South_P03
+"Old Liston Road",Ratho/newbridge,Local,,West_P07
+"Orchard Brae",Stockbridge,Local,,North_P04
+Orrvale,Balerno,1,"P007 - Balerno",
+"Osborne Terrace",Dalry,Local,,West_P02
+"Oswald Road",Newbattle,Local,,South_P02
+"Oxgangs Avenue",Firrhill,1,"P006 - Oxgangs",
+"Oxgangs Bank",Caiystane,1,"P006 - Oxgangs",
+"Oxgangs Brae",Caiystane,1,"P006 - Oxgangs",
+"Oxgangs Broadway",Caiystane,1,"P006 - Oxgangs",
+"Oxgangs Crescent",Firrhill,1,"P006 - Oxgangs",
+"Oxgangs Farm Drive",Oxgangs,1,"P006 - Oxgangs",
+"Oxgangs Green",Pentland,1,"P006 - Oxgangs",
+"Oxgangs Medway",Caiystane,1,"P006 - Oxgangs",
+"Oxgangs Park",Caiystane,1,"P006 - Oxgangs",
+"Oxgangs Path",Caiystane,1,"P006 - Oxgangs",
+"Oxgangs Rise",Caiystane,1,"P006 - Oxgangs",
+"Oxgangs Road",Swanston,1,"P005 - Fairmilehead, P006 - Oxgangs",
+"Oxgangs Road North",Oxgangs,1,"P006 - Oxgangs",
+"Oxgangs View",Caiystane,1,"P006 - Oxgangs",
+"Paisley Crescent",Willowbrae,Local,,East_P01
+"Paisley Drive",Duddingston,Local,,East_P01
+"Palmer Place",Curriehill,1,"P007 - Balerno",
+"Palmer Road",Curriehill,1,"P007 - Balerno",
+"Parkgrove Avenue",Barnton,Local,,West_P04
+"Parkgrove Place",Barnton,Local,,West_P04
+"Parkgrove Street",Barnton,Local,,West_P04
+"Parkgrove Terrace",Barnton,Local,,West_P04
+"Parkhead Drive",Parkhead,Local,,SouthWest_P02
+Parkside,Newbridge,Local,,West_P07
+"Parsons Green Terrace",Willowbrae,Local,,East_P01
+"Path Brae",Kirkliston,Local,,West_P07
+"Peffermill Road",Prestonfield,Local,,"East_P02, South_P03"
+"Pilrig Street",Bonnington,Local,,CityCentre_P04
+"Pilton Drive",Royston,Local,,North_P03
+"Pilton Drive North",Royston,Local,,North_P03
+"Pirniefield Place",Lochend,Local,,CityCentre_P03
+"Playfair Steps","Old Town",Local,,CityCentre_HS01
+Pleasance,Newington,1,CityCentre_P02,
+"Polwarth Crescent",Bruntsfield,Local,,"South_P02, SouthWest_P04"
+"Polwarth Gardens",Bruntsfield,Local,,South_P02
+"Polwarth Grove",Bruntsfield,Local,,South_P02
+"Polwarth Terrace",Bruntsfield,Local,,South_P02
+"Queen Street Gardens East",Broughton,1,CityCentre_P01,
+"Queen Street Gardens West",Stockbridge,1,CityCentre_P01,
+"Queen's Bay Crescent",Joppa,Local,,East_P02
+"Queensferry Road",Kirkliston,Local,,West_P07
+"Queensferry Road",,Local,,"North_P02, North_P04, West_P04, West_P05"
+"Queensferry Street","New Town",1,CityCentre_P01,
+"Queensferry Terrace",Ravelston,Local,,North_P04
+"Rackstraw Place",Niddrie,Local,,East_P02
+"Raeburn Place",Stockbridge,1,CityCentre_P01,
+"Railpath - Lower Granton Road to Granton",Granton,1,"CY001 - NorthNetwork",
+"Redford Drive",Redford,1,"P009 - Colinton",
+"Redford Gardens",Redford,1,"P009 - Colinton",
+"Redford Place",Redford,1,"P009 - Colinton",
+"Redford Road",Redford,1,"P009 - Colinton",
+"Redford Walk",Redford,1,"P009 - Colinton",
+"Redhall Drive",Kingsknowe,Local,,SouthWest_P03
+"Redhall Gardens",Kingsknowe,Local,,SouthWest_P03
+"Redhall Grove",Kingsknowe,Local,,SouthWest_P03
+"Redhall Road",Kingsknowe,Local,,SouthWest_P03
+"Regent Road",Broughton,Local,,CityCentre_P04
